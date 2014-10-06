@@ -1,0 +1,18 @@
+NSM in the News:
+
+	* More Bad TCP Port 0 Traffic
+	  a.) https://isc.sans.edu/forums/diary/More+Bad+Port+0+Traffic/17102
+	* Rsyslog PRI Vulnerability
+	  a.) http://www.rsyslog.com/remote-syslog-pri-vulnerability/
+	  b.) https://github.com/jonschipp/bro-scripts/blob/master/rsyslog-invalid-pri.bro
+
+Talks - OpenFlow:
+
+a.) Overview
+b.) Examples
+
+Presenter:
+
+Shane Rogers is a researcher at the Information Trust Institute who is
+working with Software Defined Networking. He is currently an undergrad
+studying computer science at the University of Illinois.
