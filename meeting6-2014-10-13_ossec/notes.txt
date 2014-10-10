@@ -1,0 +1,18 @@
+NSM in the News:
+
+Talks - OSSEC:
+
+http://www.ossec.net/
+
+# To download on unix systems you must set the User String
+wget -U "Mozilla" http://www.ossec.net/files/ossec-hids-2.8.1.tar.gz
+
+a.) Overview
+b.) Use Cases
+c.) Writing Rules
+
+Presenter:
+
+Mike Downey is Unix Administrator and Security Specialist for a
+private company in Southern Indiana. He will be talking about OSSEC, a
+popular Host Intrusion Detection System (HIDS).
