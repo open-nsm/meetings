@@ -22,3 +22,17 @@ Presenter:
 Mike Downey is Unix Administrator and Security Specialist for a
 private company in Southern Indiana. He will be talking about OSSEC, a
 popular Host Intrusion Detection System (HIDS).
+
+
+Linkz:
+
+OSSEC Downloads           http://www.ossec.net/?page_id=19
+Ch.4 Working with Rules   http://www.ossec.net/ossec-docs/OSSEC-book-ch4.pdf
+Rules Syntax              http://ossec-docs.readthedocs.org/en/latest/syntax/head_rules.html
+Active Response           http://ossec-docs.readthedocs.org/en/latest/manual/ar/
+Oscascript                http://fuzzynop.blogspot.com/2014/10/osascript-for-local-phishing.html
+
+Friendly Reminder:
+
+Remember to create your rules in local_rules.xml. Do NOT make direct changes to any of the default rules.
+ID assignments 100,000 - 119,999 are reserved for local rules. Using any other ID assignment with result in error.
