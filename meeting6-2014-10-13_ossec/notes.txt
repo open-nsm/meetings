@@ -1,3 +1,7 @@
+Group Updates:
+
+	* IRC - #opennsm on irc.freenode.net
+
 NSM in the News:
 
 	* Snapsaved claim that a misconfiguration in its Apache server caused the site's database of saved Snapchat photos and videos to become vulnerable to hackers.
