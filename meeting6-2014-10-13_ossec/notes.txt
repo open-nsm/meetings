@@ -1,5 +1,11 @@
 NSM in the News:
 
+	* Snapsaved claim that a misconfiguration in its Apache server caused the site's database of saved Snapchat photos and videos to become vulnerable to hackers.
+	a.) Called the 'The Snappening'
+	b.) http://www.businessinsider.com/snapsaved-admits-it-was-source-of-leaked-snapchat-photos-2014-10
+	c.) http://nakedsecurity.sophos.com/2014/10/13/the-snappening-snapchat-images-flood-the-internet-after-snapsaved-com-hack/
+	  "a third-party website not affiliated with Snapchat that allows users to save unopened photos from Snapchat without the sender knowing the images have been saved."
+
 Talks - OSSEC:
 
 http://www.ossec.net/
