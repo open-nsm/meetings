@@ -23,6 +23,7 @@ Linkz:
 OSSEC Downloads           http://www.ossec.net/?page_id=19
 Ch.4 Working with Rules   http://www.ossec.net/ossec-docs/OSSEC-book-ch4.pdf
 Rules Syntax              http://ossec-docs.readthedocs.org/en/latest/syntax/head_rules.html
+Active Response           http://ossec-docs.readthedocs.org/en/latest/manual/ar/
 Oscascript                http://fuzzynop.blogspot.com/2014/10/osascript-for-local-phishing.html
 
 Friendly Reminder:
