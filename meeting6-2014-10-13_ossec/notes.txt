@@ -24,3 +24,8 @@ OSSEC Downloads           http://www.ossec.net/?page_id=19
 Ch.4 Working with Rules   http://www.ossec.net/ossec-docs/OSSEC-book-ch4.pdf
 Rules Syntax              http://ossec-docs.readthedocs.org/en/latest/syntax/head_rules.html
 Oscascript                http://fuzzynop.blogspot.com/2014/10/osascript-for-local-phishing.html
+
+Friendly Reminder:
+
+Remember to create your rules in local_rules.xml. Do NOT make direct changes to any of the default rules.
+ID assignments 100,000 - 119,999 are reserved for local rules. Using any other ID assignment with result in error.
