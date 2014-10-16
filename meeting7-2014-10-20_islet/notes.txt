@@ -1,0 +1,52 @@
+Group Updates:
+
+	* IRC - ##opennsm on irc.freenode.net
+	* Meeting recordings
+	* Meeting sections
+
+NSM in the News:
+
+	* Surveillance Law
+	  a.) https://www.coursera.org/course/surveillance
+	* FlowBAT - Network Flow Basic Analysis Tool for SiLK
+	  a.) http://www.flowbat.com/
+	* Sandworm
+	  a.) http://nakedsecurity.sophos.com/2014/10/15/the-sandworm-malware-what-you-need-to-know/
+	* POODLE - flaw in SSLv3 that allows the plaintext of a secure connection to be determined by an attacker
+	  a.) https://www.openssl.org/~bodo/ssl-poodle.pdf
+	  b.) https://access.redhat.com/articles/1232123
+	  c.) Testing
+		1.) openssl s_client -connect <server>:<port> -ssl3 (Good: handshake failures)
+		2.) nmap --script ssl-enum-ciphers -p <port> <server> (Good: SSLv3: No supported ciphers found)
+	  d.) Mitigation - Disable support of SSLv3
+		1.) Apache: SSLProtocol All -SSLv2 -SSLv3
+		2.) NGinx: ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
+		3.) More: http://askubuntu.com/questions/537196/how-do-i-patch-workaround-sslv3-poodle-vulnerability-cve-2014-3566
+
+Paper Period:
+
+	* SciPass: a 100Gbps capable secure Science DMZ using OpenFlow and Bro
+	  a.) http://globalnoc.iu.edu/uploads/9a/49/9a49306820144c4fb832235500450743/scipass_paper.pdf
+
+Signature Section:
+
+	* Bro Sandworm script
+	a.) https://github.com/hosom/bro-sandworm
+	* Snort rules from Emerging Threates
+	a.) http://rules.emergingthreats.net/open/snort-2.9.0/emerging-all.rules
+
+Talks - ISLET:
+
+Isolated, Scalable, and Lightweight Environment for Training: https://github.com/jonschipp/ISLET
+
+	Talk Details:
+
+ISLET is a container system for teaching Linux based software with minimal participation effort.
+It reduces the barrier of participation by only requiring an SSH client. We have been using ISLET
+to teach NSM tools at OpenNSM. This talk is designed to teach presenters how to create their own
+ISLET configurations for training.
+
+	Presenter:
+
+Jon Schipp is a Security Engineer at the National Center for Supercomputing Applications.
+He's also a contributor to Netsniff-NG, SecurityOnion, the Bro project, and the author of ISLET.
