@@ -10,6 +10,11 @@ NSM in the News:
 	c.) http://nakedsecurity.sophos.com/2014/10/13/the-snappening-snapchat-images-flood-the-internet-after-snapsaved-com-hack/
 	  "a third-party website not affiliated with Snapchat that allows users to save unopened photos from Snapchat without the sender knowing the images have been saved."
 
+	*Dairy Queen, another breach from a 3rd party vendor.
+	a.) "Enterprises can take major strides towards mitigating these attacks by monitoring all users’ activity and behavior within a network," says Nir Polak, CEO and 
+             co-founder of Exabeam. "This helps identify suspicious users who may be attempting to steal data through the use of stolen credentials."" 
+	b.) http://www.darkreading.com/attacks-breaches/dairy-queen-breach-shines-light-on-impact-of-3rd-party-breaches/d/d-id/1316565
+
 Talks - OSSEC:
 
 http://www.ossec.net/
