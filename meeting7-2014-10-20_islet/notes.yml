@@ -1,57 +1,57 @@
-YAML
 ---
 
-Group Updates:
+Meeting Info: 5:45 PM in 301 CSL on 10/20/2014
 
-	- IRC - ##opennsm on irc.freenode.net
-	- Meeting recordings
-	- Meeting sections
+Group Updates:
+- 'IRC - ##opennsm on irc.freenode.net'
+- Meeting recordings
+- Meeting sections
 
 NSM in the News:
 
-- Surveillance Law:
-    - https://www.coursera.org/course/surveillance
-- FlowBAT - Network Flow Basic Analysis Tool for SiLK:
-    - http://www.flowbat.com/
-- Sandworm:
-    - http://nakedsecurity.sophos.com/2014/10/15/the-sandworm-malware-what-you-need-to-know/
-- POODLE:
-    - Flaw in SSLv3 that allows the plaintext of a secure connection to be determined by an attacker:
-	  - https://www.openssl.org/~bodo/ssl-poodle.pdf
-	  - https://access.redhat.com/articles/1232123
-	  - Testing
-		- openssl s_client -connect <server>:<port> -ssl3 (Good: handshake failures)
-		- nmap --script ssl-enum-ciphers -p <port> <server> (Good: SSLv3: No supported ciphers found)
-	  - Mitigation - Disable support of SSLv3
-		- Apache: SSLProtocol All -SSLv2 -SSLv3
-		- NGinx: ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
-		- More: http://askubuntu.com/questions/537196/how-do-i-patch-workaround-sslv3-poodle-vulnerability-cve-2014-3566
+  Surveillance Law: https://www.coursera.org/course/surveillance
 
-Paper Period:
+  FlowBAT - Network Flow Basic Analysis Tool for SiLK: http://www.flowbat.com/
 
-- SciPass: a 100Gbps capable secure Science DMZ using OpenFlow and Bro:
-    - http://globalnoc.iu.edu/uploads/9a/49/9a49306820144c4fb832235500450743/scipass_paper.pdf
+  Sandworm: http://nakedsecurity.sophos.com/2014/10/15/the-sandworm-malware-what-you-need-to-know/
 
-Signature Section:
+  POODLE:
 
-- Bro Sandworm script
-    - https://github.com/hosom/bro-sandworm
-- Snort rules from Emerging Threates
-    - http://rules.emergingthreats.net/open/snort-2.9.0/emerging-all.rules
+    Flaw in SSLv3 that allows the plaintext of a secure connection to betermined by an attacker:
+    - https://www.openssl.org/~bodo/ssl-poodle.pdf
+    - https://access.redhat.com/articles/1232123
+
+    - Testing:
+      - 'openssl s_client -connect <server>:<port> -ssl3 (Good: handshake failures)'
+      - 'nmap --script ssl-enum-ciphers -p <port> <server> (Good: SSLv3: No supported
+        ciphers found)'
+
+    - Mitigation - Disable support of SSLv3:
+      - 'Apache: SSLProtocol All -SSLv2 -SSLv3'
+      - 'NGinx: ssl_protocols TLSv1 TLSv1.1 TLSv1.2;'
+      - 'More: http://askubuntu.com/questions/537196/how-do-i-patch-workaround-sslv3-poodle-vulnerability-cve-2014-3566'
+
+Paper Period: 'SciPass: a 100Gbps capable secure Science DMZ using OpenFlow and Bro:
+  http://globalnoc.iu.edu/uploads/9a/49/9a49306820144c4fb832235500450743/scipass_paper.pdf'
+
+Signature Selection:
+
+  Bro Sandworm script: https://github.com/hosom/bro-sandworm
+
+  Snort rules from Emerging Threats: http://rules.emergingthreats.net/open/snort-2.9.0/emerging-all.rules
 
 Talks:
+  Big Talks:
+    'ISLET: Isolated, Scalable, and Lightweight Environment for Training':
 
-- ISLET: Isolated, Scalable, and Lightweight Environment for Training:
-    - Website: https://github.com/jonschipp/ISLET
+      Website: https://github.com/jonschipp/ISLET
 
-    - Talk Details:
+      Talk Details: ISLET is a container system for teaching Linux based software
+        with minimal participation effort. It reduces the barrier of participation
+        by only requiring an SSH client. We have been using ISLET to teach NSM tools
+        at OpenNSM. This talk is designed to teach presenters how to create their
+        own ISLET configurations for training.
 
-ISLET is a container system for teaching Linux based software with minimal participation effort.
-It reduces the barrier of participation by only requiring an SSH client. We have been using ISLET
-to teach NSM tools at OpenNSM. This talk is designed to teach presenters how to create their own
-ISLET configurations for training.
-
-    - Presenter:
-
-Jon Schipp is a Security Engineer at the National Center for Supercomputing Applications.
-He's also a contributor to Netsniff-NG, SecurityOnion, the Bro project, and the author of ISLET.
+      Presenter: Jon Schipp is a Security Engineer at the National Center for Supercomputing
+        Applications. He's also a contributor to Netsniff-NG, SecurityOnion, the Bro
+        project, and the author of ISLET.
