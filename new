@@ -56,7 +56,7 @@ get_monday
 if ! [ -d $date ]
 then
 	mkdir $date && template
-	ln -f -s $date current
+	ln -f -s $date/notes.yml current
 else
 	echo "Meeting $date already exists"
 	exit 1
