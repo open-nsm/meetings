@@ -13,12 +13,14 @@ Meeting Sections:
   - 'Full Disclosure of Havex Trojans: <http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans>'
   - 'Flaw in widely used strings...: <http://www.computerworld.com/article/2838988/flaw-in-widely-used-strings-utility-could-spell-trouble-for-malware-analysts.html>'
   - 'GNU Wget FTP Symlink Arbitrary Filesystem Access: <https://community.rapid7.com/community/metasploit/blog/2014/10/28/r7-2014-15-gnu-wget-ftp-symlink-arbitrary-filesystem-access>'
+  - 'APT28 Report: <http://www.fireeye.com/resources/pdfs/apt28.pdf>'
 
   Paper Period:
   - 'Rapid and Scalable ISP Service Delivery through a Programmable MiddleBox: <http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000003.pdf>'
 
 Signature Selection:
-  - TBA
+  - 'Bro: APT28: <https://gist.github.com/jmlynch/c43ca0a4ded059a8ee26#file-gistfile1-txt>'
+  - 'Snort: APT28: <http://seclists.org/snort/2014/q4/273>'
 
 Talks:
   Small Talks:
@@ -26,7 +28,11 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Bro's Intel Framework:
+    Website: https://www.bro.org/sphinx-git/frameworks/intel.html
+
+    Talk Details: A walkthrough of using Bro to work with intelligence data.
+
+    Presenter: Jon Schipp is a Security Engineer at the National Center for Supercomputing
+        Applications. He's also a contributor to Netsniff-NG, SecurityOnion, the Bro
+        project, and the author of ISLET.
