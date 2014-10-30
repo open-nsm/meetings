@@ -61,3 +61,5 @@ else
 	echo "Meeting $date already exists"
 	exit 1
 fi
+
+echo "Run notes.yml through a YAML parser before committing: http://www.yamllint.com/"
