@@ -18,9 +18,9 @@ Meeting Sections:
   Paper Period:
   - 'Rapid and Scalable ISP Service Delivery through a Programmable MiddleBox: <http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000003.pdf>'
 
-Signature Selection:
-  - 'Bro: APT28: <https://gist.github.com/jmlynch/c43ca0a4ded059a8ee26#file-gistfile1-txt>'
-  - 'Snort: APT28: <http://seclists.org/snort/2014/q4/273>'
+  Signature Selection:
+   - 'Bro: APT28: <https://gist.github.com/jmlynch/c43ca0a4ded059a8ee26#file-gistfile1-txt>'
+   - 'Snort: APT28: <http://seclists.org/snort/2014/q4/273>'
 
 Talks:
   Small Talks:
@@ -28,11 +28,16 @@ Talks:
     - TBA
 
   Big Talks:
-    Bro's Intel Framework:
-    Website: https://www.bro.org/sphinx-git/frameworks/intel.html
+    Security Onion:
+    Website: http://securityonion.net
 
-    Talk Details: A walkthrough of using Bro to work with intelligence data.
+    Talk Details: A walkthrough of SecurityOnion, a complete Linux distribution for NSM deployments
 
-    Presenter: Jon Schipp is a Security Engineer at the National Center for Supercomputing
-        Applications. He's also a contributor to Netsniff-NG, SecurityOnion, the Bro
-        project, and the author of ISLET.
+    Presenter: Doug Burks has over 15 years of experience in the IT and CyberSecurity
+	industries. In 2008, he identified a need for an easy to use NSM
+	platform and began building Security Onion to give organizations full
+	visibility into all the layers of their networks. Over the years, Doug
+	has been invited to speak on Security Onion at security conferences
+	across the country. Today, Security Onion has over 140,000 downloads
+	and is being used around the world to defend computer networks against
+	attackers.
