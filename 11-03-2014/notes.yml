@@ -11,10 +11,13 @@ Group Updates:
 
 Meeting Sections:
   NSM in the News:
-  - 'Full Disclosure of Havex Trojans: <http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans>'
-  - 'Flaw in widely used strings...: <http://www.computerworld.com/article/2838988/flaw-in-widely-used-strings-utility-could-spell-trouble-for-malware-analysts.html>'
+  - 'Full Disclosure of Havex Trojans: <http://www.netresec.com/?page=Blog&month=2014-10&post=Full-Disclosure-of-Havex-Trojans>':
+    - Dragonfly APT group targets ICS
+    - Trojanized ICS compnay software with Havex backdoor
+    - 3 European ICS equipment providers known to be affected: Mesa Imaging, eWon, MB Connect Line
+  - 'Dont Run Strings on Untrusted Files: <http://lcamtuf.blogspot.ro/2014/10/psa-dont-run-strings-on-untrusted-files.html>':
+    - libbfd  (Binary File Descriptor) library lacks out of bounds checking, GNU bintools affected
   - 'GNU Wget FTP Symlink Arbitrary Filesystem Access: <https://community.rapid7.com/community/metasploit/blog/2014/10/28/r7-2014-15-gnu-wget-ftp-symlink-arbitrary-filesystem-access>'
-  - 'APT28 Report: <http://www.fireeye.com/resources/pdfs/apt28.pdf>'
 
   Paper Period:
   - 'Rapid and Scalable ISP Service Delivery through a Programmable MiddleBox: <http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000003.pdf>'
@@ -35,10 +38,8 @@ Talks:
     Talk Details: A walkthrough of SecurityOnion, a complete Linux distribution for NSM deployments
 
     Presenter: Doug Burks has over 15 years of experience in the IT and CyberSecurity
-	industries. In 2008, he identified a need for an easy to use NSM
-	platform and began building Security Onion to give organizations full
-	visibility into all the layers of their networks. Over the years, Doug
-	has been invited to speak on Security Onion at security conferences
-	across the country. Today, Security Onion has over 140,000 downloads
-	and is being used around the world to defend computer networks against
-	attackers.
+      industries. In 2008, he identified a need for an easy to use NSM platform and began building
+      Security Onion to give organizations full visibility into all the layers of their networks.
+      Over the years, Doug has been invited to speak on Security Onion at security conferences across
+      the country. Today, Security Onion has over 140,000 downloads and is being used around the world
+      to defend computer networks against attackers.
