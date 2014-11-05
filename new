@@ -57,6 +57,8 @@ if ! [ -d $date ]
 then
 	mkdir $date && template
 	ln -f -s $date/notes.yml current
+	[ -f current ] && git add $date current && git commit -m "begin new meeting notes for $date" && git push
+
 else
 	echo "Meeting $date already exists"
 	exit 1
