@@ -7,7 +7,7 @@ GoToMeeting: 'Num - Access Code: AC <url>'
 Group Updates:
 - 'IRC - ##opennsm on irc.freenode.net'
 - Meeting recordings
-- Facebook limitation
+- Facebook limitation, switch to non-UIUC group
 - URL facebook.com/groups/opennsm, opennsm@groups.facebook.com
 
 Meeting Sections:
@@ -26,7 +26,10 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Bro:
+    Website: https://www.bro.org/, http://icir.org/seth/
+    Talk Details: TBA Bro topic
+    Presenter: Seth Hall is a research engineer in the networking group at the International Computer Science Institute.
+      His primary activity is working on Bro and promoting its use in various industries under a grant from the NSF in the SDCI program.
+      Prior to that Seth worked in the trenches on the OSU Network Security Team utilizing Bro.
+
