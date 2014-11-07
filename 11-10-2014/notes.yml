@@ -16,6 +16,7 @@ Meeting Sections:
   - 'Feds Arrest Alleged ‘Silk Road 2′ Admin, Seize Servers:<http://krebsonsecurity.com/2014/11/feds-arrest-alleged-silk-road-2-admin-seize-servers/>'
   - 'Facebook, hidden services, and https certs: <https://blog.torproject.org/blog/facebook-hidden-services-and-https-certs>'
   - 'PassiveDNS code updates: JSON output, but notably PF_RING support: <https://github.com/gamelinux/passivedns/pull/37>'
+  - 'passive-dns, dns logger for bro using passive dns collection: <https://github.com/JustinAzoff/passive-dns>'
 
   Paper Period:
   - 'Quantitative Analysis of Intrusion Detection Systems: Snort and Suricata <http://people.clarkson.edu/~jmatthew/publications/SPIE_SnortSuricata_2013.pdf>'
