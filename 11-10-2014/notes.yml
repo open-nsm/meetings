@@ -29,9 +29,9 @@ Talks:
     - TBA
 
   Big Talks:
-    Bro:
+    File Analysis Framework in Bro:
     Website: https://www.bro.org/, http://icir.org/seth/
-    Talk Details: File Handling in Bro
+    Talk Details: File handling in Bro
     Presenter: Seth Hall is a research engineer in the networking group at the International Computer Science Institute.
       His primary activity is working on Bro and promoting its use in various industries under a grant from the NSF in the SDCI program.
       Prior to that Seth worked in the trenches on the OSU Network Security Team utilizing Bro.
