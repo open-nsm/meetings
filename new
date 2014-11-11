@@ -7,7 +7,7 @@ get_monday(){
 if [[ $os == "Darwin" ]]; then
 	date=$(date -v +Mon +"%m-%d-%Y")
 elif [[ $os == "Linux" ]]; then
-	date=$(date -d next-monday "%m-%d-%Y")
+	date=$(date -d next-monday +"%m-%d-%Y")
 else
 	echo "$os not understood"
 fi
