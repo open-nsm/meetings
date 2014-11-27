@@ -18,7 +18,7 @@ Meeting Sections:
   - TBA
 
   Signature Selection:
-  - TBA
+  - 'Windows version by Crypt32.dll:<https://github.com/bro/bro/blob/master/scripts/policy/frameworks/software/windows-version-detection.bro>'
 
 Talks:
   Small Talks:
