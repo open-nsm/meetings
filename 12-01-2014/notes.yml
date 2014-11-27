@@ -26,7 +26,14 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Malware Traffic Analysis:
+    Website: http://www.malware-traffic-analysis.net/
+    Talk Details: Brad will discuss a few of his favorite investigations and his workflow
+    Presenter: Brad is a security analyst located in the San Antonio, Texas area.
+      He specializes in network traffic analysis and intrusion detection.
+      After 21 years doing classified intelligence work for the US military,
+      Brad began a new career as a traffic analyst in the summer of 2010.
+      He started the malware-traffic-analysis.net blog in the summer of 2013
+      as a way to share information--Brad wanted to provide the type of resource
+      he would've liked when he started out. Since then, the blog has slowly
+      grown in popularity among like-minded security professionals.
