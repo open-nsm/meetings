@@ -13,9 +13,11 @@ Group Updates:
 Meeting Sections:
   NSM in the News:
   - 'on Linux, 'less' can probably get you owned:<http://seclists.org/fulldisclosure/2014/Nov/74>'
+  - Docker vulnerabilities CVE-2014-6407,CVE-2014-6408
+  - 'WireEdit: A Full Stack WYSIWYG Editor for Network Packets: <https://wireedit.com/>'
 
   Paper Period:
-  - TBA
+  - Count Me In: Viable Distributed Summary Statistics for Securing High-Speed Networks
 
   Signature Selection:
   - 'Windows version by Crypt32.dll:<https://github.com/bro/bro/blob/master/scripts/policy/frameworks/software/windows-version-detection.bro>'
