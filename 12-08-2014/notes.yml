@@ -13,12 +13,14 @@ Group Updates:
 Meeting Sections:
   NSM in the News:
   - 'ELSA now parses Bro's RADIUS, SNMP, and X.509 logs: <http://blog.securityonion.net/2014/12/elsa-now-parses-bros-radius-snmp-and.html>'
+  - 'Broala announced Subscription Service: <http://www.broala.com/assets/Broala_-_Bro_Support_Service_Brochure.pdf>'
+  - 'Inside the “wiper” malware that brought Sony Pictures to its knees: <http://arstechnica.com/security/2014/12/inside-the-wiper-malware-that-brought-sony-pictures-to-its-knees/>'
 
   Paper Period:
   - Count Me In: Viable Distributed Summary Statistics for Securing High-Speed Networks
 
   Signature Selection:
-  - TBA
+  - 'Look for Exploit Kit behavior: <https://github.com/sooshie/bro-scripts/blob/master/exploitkit/exploitkit.bro>'
 
 Talks:
   Small Talks:
