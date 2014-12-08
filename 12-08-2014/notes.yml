@@ -4,28 +4,34 @@ Website: http://opennsm.ncsa.illinois.edu/
 Meeting Info: 6:00 PM in 301 CSL on 12-08-2014
 Building Access: Doors close at 6 PM, arrive earlier
 GoToMeeting: '+1 (571) 317-3112 - Access Code: 932-833-181 <https://global.gotomeeting.com/join/932833181>'
+Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
+Facebook: https://www.facebook.com/groups/opennsmnow/
+Github: https://github.com/open-nsm
+Youtube: https://www.youtube.com/user/OpenNSM
+Vimeo: https://vimeo.com/opennsm
+IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- 'IRC - ##opennsm on irc.freenode.net'
-- Meeting recordings
-- 'Facebook: <https://www.facebook.com/groups/opennsmnow/>'
+- Server update
 
 Meeting Sections:
   NSM in the News:
   - 'ELSA now parses Bro's RADIUS, SNMP, and X.509 logs: <http://blog.securityonion.net/2014/12/elsa-now-parses-bros-radius-snmp-and.html>'
   - 'Broala announced Subscription Service: <http://www.broala.com/assets/Broala_-_Bro_Support_Service_Brochure.pdf>'
   - 'Inside the "wiper" malware that brought Sony Pictures to its knees: <http://arstechnica.com/security/2014/12/inside-the-wiper-malware-that-brought-sony-pictures-to-its-knees/>'
+  - 'An unofficial analysis of the Retaliation Virus: <http://vxheaven.org/lib/vrn01.html>'
+  - 'in Linux kernel 3.18, bpf() system call: <http://lwn.net/Articles/612878/>'
 
   Paper Period:
-  - Count Me In: Viable Distributed Summary Statistics for Securing High-Speed Networks
+  - NA
 
   Signature Selection:
   - 'Look for Exploit Kit behavior: <https://github.com/sooshie/bro-scripts/blob/master/exploitkit/exploitkit.bro>'
 
 Talks:
   Small Talks:
-    TBA:
-    - TBA
+    NA:
+    - NA
 
   Big Talks:
     Sagan:
