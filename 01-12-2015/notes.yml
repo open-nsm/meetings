@@ -1,7 +1,7 @@
 ---
 
 Website: http://opennsm.ncsa.illinois.edu/
-Meeting Info: 6:00 PM in 301 CSL on 01-12-2015
+Meeting Info: 6:00 PM in 301 CSL on $date
 Building Access: Doors close at 6 PM, arrive earlier
 Remote: '+1 (415) 762-9988 - Meeting ID: 419 334 147 <https://zoom.us/j/419334147>'
 Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
@@ -12,17 +12,26 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- Ganeti cluster update
 
 Meeting Sections:
   NSM in the News:
-  - TBA
+  - 'Introducing Snort 3.0: <http://blog.snort.org/2014/12/introducing-snort-30.html>'
+  - 'Suricata 2.0.5 Available!: <http://suricata-ids.org/news/>'
+  - 'Powerful, highly stealthy Linux trojan may have infected victims for years: <http://arstechnica.com/security/2014/12/powerful-highly-stealthy-linux-trojan-may-have-infected-victims-for-years/>'
+  - 'Observing the Havex RAT: <http://www.netresec.com/?page=Blog&month=2014-11&post=Observing-the-Havex-RAT>'
+  - 'Ars was briefly hacked yesterday; here’s what we know: <http://arstechnica.com/staff/2014/12/ars-was-briefly-hacked-yesterday-heres-what-we-know/>'
+  - 'Wireshark PPA: <https://launchpad.net/~wireshark-dev/+archive/ubuntu/stable>'
 
   Tool Trade:
-  - TBA
+  - 'Fireshark:<https://code.google.com/p/fireshark/>'
+  - 'Suriwire: <https://home.regit.org/software/suriwire/>'
 
   Paper Period:
-  - TBA
+  - Count Me In: Viable Distributed Summary Statistics for Securing High-Speed Networks
+
+  Challenge Corner:
+  - SANS 2014 Holiday Hacking Challenge: "http://pen-testing.sans.org/holiday-challenge/2014"
 
   Signature Selection:
   - TBA
@@ -33,7 +42,7 @@ Talks:
     - TBA
 
   Big Talks:
-    No Meeting:
+    TBA:
     Website:
-    Talk Details: Finishing up Christmas break. We will begin again next week!
+    Talk Details:
     Presenter:
