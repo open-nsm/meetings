@@ -18,10 +18,12 @@ Meeting Sections:
   NSM in the News:
   - 'Introducing Snort 3.0: <http://blog.snort.org/2014/12/introducing-snort-30.html>'
   - 'Suricata 2.0.5 Available!: <http://suricata-ids.org/news/>'
+  - 'SecurityOnion now has package for Suricata 2.0.5: <http://blog.securityonion.net/2015/01/suricata-205.html>'
   - 'Powerful, highly stealthy Linux trojan may have infected victims for years: <http://arstechnica.com/security/2014/12/powerful-highly-stealthy-linux-trojan-may-have-infected-victims-for-years/>'
   - 'Observing the Havex RAT: <http://www.netresec.com/?page=Blog&month=2014-11&post=Observing-the-Havex-RAT>'
   - 'Ars was briefly hacked yesterday; here’s what we know: <http://arstechnica.com/staff/2014/12/ars-was-briefly-hacked-yesterday-heres-what-we-know/>'
   - 'Wireshark PPA: <https://launchpad.net/~wireshark-dev/+archive/ubuntu/stable>'
+  - 'ELSA packages parse country code out of Bro conn.log: <http://blog.securityonion.net/2015/01/new-elsa-packages-parse-country-code.html>'
 
   Tool Trade:
   - 'Fireshark:<https://code.google.com/p/fireshark/>'
