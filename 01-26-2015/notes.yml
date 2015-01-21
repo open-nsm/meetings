@@ -1,7 +1,7 @@
 ---
 
 Website: http://opennsm.ncsa.illinois.edu/
-Meeting Info: 6:00 PM in 301 CSL on $date
+Meeting Info: 6:00 PM in 301 CSL on 01-26-2015
 Building Access: Doors close at 6 PM, arrive earlier
 Remote: '+1 (415) 762-9988 - Meeting ID: 419 334 147 <https://zoom.us/j/419334147>'
 Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
@@ -44,7 +44,34 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Applied Detection and Analysis Using Flow Data:
+    Website: 'http://www.appliednsm.com, http://www.chrissanders.org'
+    Contact: @chrissanders88, @automayt
+    Talk Details: While network flow data isn’t a new concept, it is easily one of the most powerful data types you
+      can have in your arsenal as a network defender. It is incredibly low overhead, easy to setup and maintain, and
+      provides tremendously flexible capabilities for network security monitoring (NSM) detection and analysis.
+      In this presentation, we will take a look at flow data from the perspective of the NSM analyst. To begin,
+      we will harness the power of statistics to demonstrate how flow data can be used for detecting both structured
+      and unstructured threats using techniques that go beyond simple signature matching. Next, we will discuss the
+      concept of friendly intelligence and how flow data can be used to profile devices on your network so you can
+      understand what normal communication looks like. Finally, we will describe how flow data can be used to augment
+      the analysis of network security events that are detected by other mechanisms. During this presentation, we will
+      also introduce and demonstrate FlowPlotter, an open source tool we have developed to aide in visualizing flow data
+      for detection and analysis, and FlowBAT, a web-based tool for performing flow data analysis. Every concept we discuss
+      in this presentation will be demonstrated with practical, real-world scenarios complete with real data using the SiLK
+      toolset. Our hope is that you will leave this talk with techniques you can apply to your network immediately with
+      incredibly low overhead and high impact.
+    Presenter: Chris Sanders is an information security consultant, author, and researcher
+      Chris leads a team within Mandiant focused on detection and threat intelligence. He has extensive experience
+      supporting multiple government and military agencies, as well as several Fortune 500 companies.
+      In multiple roles with the US Department of Defense, Chris significantly helped to further the
+      role of the Computer Network Defense Service Provider (CNDSP) model, and helped to create several
+      NSM and intelligence tools currently being used to defend the interests of the nation.
+      Chris has authored several books and articles, including the international best seller
+      "Practical Packet Analysis" form No Starch Press and his most recent book "Applied Network Security Monitoring"
+
+      Jason Smith is an intrusion detection analyst by day and junkyard engineer by night. Jason started his career
+      mining large data sets and performing finite element analysis as a budding physicist. Jason has a long history
+      of assisting state and federal agencies with hardening their defensive perimeters and currently works as a
+      Security Engineer with Mandiant. As part of his development work, he has created several open source projects,
+      many of which have become "best-practice" tools for the DISA CNDSP program.
