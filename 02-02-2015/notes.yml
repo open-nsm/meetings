@@ -33,7 +33,11 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Logging Infrastructure with Rsyslog:
+    Website: http://jonschipp.com
+    Talk Details: Creating a high availability, multi-tier logging infrastructure with
+      Rsyslog for analysis, storage, and indexing.
+    Presenter: Jon Schipp is a Security Engineer at the National Center for Supercomputing
+     Applications. He's a contributor to Netsniff-NG, SecurityOnion, the Bro project, and
+     the author of ISLET. In addition, he listens to copious amounts of death metal and
+     plays recreational volleyball.
