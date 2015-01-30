@@ -23,7 +23,7 @@ Meeting Sections:
     - SANS 2014 Holiday Hacking Challenge: "http://pen-testing.sans.org/holiday-challenge/2014"
 
   Tool Trade:
-  - Using Scapy to parse pcaps. I'll be showing my *very* simple pcap parser, Sniffy. 
+  - TBA
 
   Paper Period:
   - TBA
@@ -34,7 +34,7 @@ Meeting Sections:
 Talks:
   Small Talks:
     Scapy:
-    - Shane will be sharing a program he wrote in Scapy
+    -  Using Scapy to parse pcaps. I'll be showing my *very* simple pcap parser, Sniffy. (Shane)
 
   Big Talks:
     Logging Infrastructure with Rsyslog:
