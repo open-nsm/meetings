@@ -16,7 +16,11 @@ Group Updates:
 
 Meeting Sections:
   NSM in the News:
-  - TBA
+  - 'The GHOST vulnerability - what you need to know: <https://nakedsecurity.sophos.com/2015/01/29/the-ghost-vulnerability-what-you-need-to-know/>'
+  - 'CVE-2015-0235: <https://access.redhat.com/security/cve/CVE-2015-0235>'
+
+  Challenge Corner:
+    - SANS 2014 Holiday Hacking Challenge: "http://pen-testing.sans.org/holiday-challenge/2014"
 
   Tool Trade:
   - TBA
@@ -29,8 +33,8 @@ Meeting Sections:
 
 Talks:
   Small Talks:
-    TBA:
-    - TBA
+    Scapy:
+    - Shane will be sharing a program he wrote in Scapy
 
   Big Talks:
     Logging Infrastructure with Rsyslog:
