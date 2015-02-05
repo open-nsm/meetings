@@ -12,7 +12,7 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- Sponsors
 
 Meeting Sections:
   NSM in the News:
@@ -33,7 +33,25 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    OSquery:
+    Website: http://osquery.io/, http://prosauce.org/
+    Talk Details: Demonstration of installing osquery, running the shell, deploying
+      the daemon, and spending some time on what information osquery surfaces, how
+      that's useful in SQL-style joins, what types of queries have been
+      helpful in finding threats, and what's important information we're
+      missing and how to improve the tool by creating additions!
+    Presenter: Teddy Reed, developer of OSQuery, is very passionate about
+      trustworthy, safe, and secure code development. He loves open source
+      and collaborative development when scale, resiliency, and performance
+      enable defensive and protective software design. Live and breath security
+      engineering and dream in code.
+
+      Prior to production and enterprise security engineering, he held
+      several research and development positions with focuses on large scale
+      system assessments, application penetration testing, and system and
+      hardware emulation. He has published and presented at security
+      conferences on trusted computing, hardware trusted systems, UAVs,
+      botnet development, human performance engineering, competition game
+      theory, biometric vulnerabilities, and PaaS API vulnerabilities. he
+      enjoys a good CTF and I have fun developing new and interesting (and
+      long!) CTF challenges.
