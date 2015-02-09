@@ -22,8 +22,8 @@ cat <<EOF > $date/$file
 ---
 
 Website: http://opennsm.ncsa.illinois.edu/
-Meeting Info: 6:00 PM in 301 CSL on $date
-Building Access: Doors close at 6 PM, arrive earlier
+Meeting Info: 6CT/7ET/4PT PM in 301 CSL on $date
+Building Access: Doors close at 6 PM CT, arrive earlier
 Remote: '+1 (415) 762-9988 - Meeting ID: 419 334 147 <https://zoom.us/j/419334147>'
 Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
 Facebook: https://www.facebook.com/groups/opennsmnow/
