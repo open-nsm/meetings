@@ -18,13 +18,13 @@ Group Updates:
 
 Meeting Sections:
   NSM in the News:
-  - TBA
+  - 'Deconstructing BPF filter in TCPdump: <https://stackoverflow.com/questions/28392766/deconstructing-bpf-filter-in-tcpdump>'
 
   Conference Corner:
   - TBA
 
   Tool Trade:
-  - TBA
+  - 'check_bpf: <https://github.com/jonschipp/dot-files/blob/master/bash/bashrc#L106-L112>'
 
   Paper Period:
   - 'Network flow analysis at SCinet: <http://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_431128.pdf>'
