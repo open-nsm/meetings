@@ -12,13 +12,15 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- Twitter: @OpenNSM #OpenNSM
-- open-nsm.net
-- Sponsors
+- 'Twitter: @OpenNSM #OpenNSM'
+- 'open-nsm.net -> http://opennsm.ncsa.illinois.edu/'
+- 'Sponsors: <http://opennsm.ncsa.illinois.edu/sponsors.html>'
+- 'Ganeti Cluster update: <https://github.com/grnet/snf-image>'
 
 Meeting Sections:
   NSM in the News:
   - 'Deconstructing BPF filter in TCPdump: <https://stackoverflow.com/questions/28392766/deconstructing-bpf-filter-in-tcpdump>'
+  - 'Reverse Engineering on Stack Exchange: <http://reverseengineering.stackexchange.com/>
 
   Conference Corner:
   - TBA
@@ -28,6 +30,7 @@ Meeting Sections:
 
   Paper Period:
   - 'Network flow analysis at SCinet: <http://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_431128.pdf>'
+  - 'The Underground Economy of Fake Antivirus Software: <http://www.umiacs.umd.edu/~tdumitra/courses/ENEE759D/Fall13/papers/Stone-Gross11.pdf>'
 
   Signature Selection:
   - TBA
