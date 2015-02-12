@@ -12,14 +12,19 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- Sponsors
+- Twitter: @OpenNSM #OpenNSM
+- open-nsm.net
 
 Meeting Sections:
   NSM in the News:
-  - TBA
+  - 'Bro 2.3.2 is now available: <http://blog.securityonion.net/2015/02/bro-232-now-available.html>'
+  - 'New ELSA packages parse additional fields out of Bro dns.log: <http://blog.securityonion.net/2015/02/new-elsa-packages-parse-additional.html>'
+  - 'Yet Another Flash Patch Fixes Zero-Day Flaw: <http://krebsonsecurity.com/2015/02/yet-another-flash-patch-fixes-zero-day-flaw/>'
 
   Tool Trade:
-  - TBA
+  - 'Army Research Lab Releases Dshell Forensics Framework : <http://threatpost.com/army-research-lab-releases-dshell-forensics-framework/110766>'
+  - 'OpenSOC Big Data Security Analytics Framework: <http://blogs.cisco.com/security/opensoc-an-open-commitment-to-security>'
 
   Paper Period:
   - TBA
@@ -33,7 +38,25 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    OSquery:
+    Website: http://osquery.io/, http://prosauce.org/
+    Talk Details: Demonstration of installing osquery, running the shell, deploying
+      the daemon, and spending some time on what information osquery surfaces, how
+      that's useful in SQL-style joins, what types of queries have been
+      helpful in finding threats, and what's important information we're
+      missing and how to improve the tool by creating additions!
+    Presenter: Teddy Reed, developer of OSQuery, is very passionate about
+      trustworthy, safe, and secure code development. He loves open source
+      and collaborative development when scale, resiliency, and performance
+      enable defensive and protective software design. Live and breath security
+      engineering and dream in code.
+
+      Prior to production and enterprise security engineering, he held
+      several research and development positions with focuses on large scale
+      system assessments, application penetration testing, and system and
+      hardware emulation. He has published and presented at security
+      conferences on trusted computing, hardware trusted systems, UAVs,
+      botnet development, human performance engineering, competition game
+      theory, biometric vulnerabilities, and PaaS API vulnerabilities. he
+      enjoys a good CTF and I have fun developing new and interesting (and
+      long!) CTF challenges.
