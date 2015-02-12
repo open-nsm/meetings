@@ -1,13 +1,8 @@
 ---
 
 Website: http://opennsm.ncsa.illinois.edu/
-<<<<<<< HEAD
-Meeting Info: 6:00 PM in 301 CSL on 02-16-2015
-Building Access: Doors close at 6 PM, arrive earlier
-=======
 Meeting Info: 6CT/7ET/4PT PM in 301 CSL on 02-16-2015
 Building Access: Doors close at 6 PM CT, arrive earlier
->>>>>>> 6b6368127c4eb8c023fb508cee7643af07e221ce
 Remote: '+1 (415) 762-9988 - Meeting ID: 419 334 147 <https://zoom.us/j/419334147>'
 Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
 Facebook: https://www.facebook.com/groups/opennsmnow/
@@ -17,19 +12,6 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-<<<<<<< HEAD
-- TBA
-
-Meeting Sections:
-  NSM in the News:
-  - TBA
-
-  Tool Trade:
-  - TBA
-
-  Paper Period:
-  - The Underground Economy of Fake Antivirus Software: http://www.umiacs.umd.edu/~tdumitra/courses/ENEE759D/Fall13/papers/Stone-Gross11.pdf
-=======
 - Twitter: @OpenNSM #OpenNSM
 - open-nsm.net
 - Sponsors
@@ -37,7 +19,6 @@ Meeting Sections:
 Meeting Sections:
   NSM in the News:
   - 'Deconstructing BPF filter in TCPdump: <https://stackoverflow.com/questions/28392766/deconstructing-bpf-filter-in-tcpdump>'
-  - '2014 SANS Holiday Hack Winners and Official Answers: <http://pen-testing.sans.org/blog/2015/02/04/2014-sans-holiday-hack-winners-and-official-answers>'
 
   Conference Corner:
   - TBA
@@ -47,7 +28,6 @@ Meeting Sections:
 
   Paper Period:
   - 'Network flow analysis at SCinet: <http://resources.sei.cmu.edu/asset_files/Presentation/2015_017_001_431128.pdf>'
->>>>>>> 6b6368127c4eb8c023fb508cee7643af07e221ce
 
   Signature Selection:
   - TBA
@@ -58,7 +38,7 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
+    Critical Stack Intel:
+    Website: https://intel.criticalstack.com/
     Talk Details:
     Presenter:
