@@ -41,8 +41,12 @@ Talks:
     - TBA
 
   Big Talks:
-    Critical Stack Intel:
+    Critical Stack Intel and Bro Top:
     Website: https://intel.criticalstack.com/
-    Talk Details: A 100% free intel marketplace from Critical Stack, Inc
-      Optimized and ready for the Bro Intelligence framework
-    Presenter: Liam Randall
+    Talk Details: Today Dustin is here to talk about Critical Stack's free Intel Marketplace
+      for the Bro Platform available at https://intel.criticalstack.com.  He will also be
+      demonstrating Bro Top (https://github.com/mephux/brotop ) which allows you to stream your
+      bro logs to the browser for easy debugging and a real-time glimpse into whats being processed.
+    Presenter: Dustin Webber (@mephux) is the Chief Technology Officer and Co-Founder at Critical Stack, Inc.
+     A long time open source contributor, he is the creator of Snorby (https://snorby.org ) and other useful tools
+     and applications (https://github.com/mephux).
