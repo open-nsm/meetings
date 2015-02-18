@@ -12,7 +12,9 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- 'Twitter: @OpenNSM #OpenNSM'
+- 'Sponsors: <http://opennsm.ncsa.illinois.edu/sponsors.html>'
+- 'What is OpenNSM?: <http://sickbits.net/opennsm-the-open-network-security-monitoring-group/>'
 
 Meeting Sections:
   NSM in the News:
@@ -22,10 +24,11 @@ Meeting Sections:
   - TBA
 
   Tool Trade:
-  - TBA
+  - 'bro-intel-generator: <https://github.com/exp0se/bro-intel-generator>'
+  - 'mal-dnssearch: <https://github.com/jonschipp/mal-dnssearch>'
 
   Paper Period:
-  - TBA
+  - 'The Cyber Defense Review: <http://www.cyberdefensereview.org/>'
 
   Signature Selection:
   - TBA
@@ -36,7 +39,15 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Google Rapid Response:
+    Website: https://github.com/google/grr, https://twitter.com/mrgcastle
+    Talk Details: GRR Rapid Response is an incident response framework focused on remote live forensics.
+      Greg will be introducing us to GRR and how to use it.
+    Presenter: Greg is a Senior Security Engineer in Google's Incident Response team.
+      He is a developer of the open-source GRR live-forensics system, and is currently
+      working on building GRR's capability for fast collection of digital forensic artifacts
+      over the Internet. Greg also has strong interest and involvement in OS X security,
+      having been responsible for the security of Google's OS X fleet for two years.
+      He has over 10 years experience in the computer security industry as a pentester,
+      incident responder, and forensic analyst.
+
