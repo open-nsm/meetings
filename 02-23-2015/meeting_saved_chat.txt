@@ -1,0 +1,25 @@
+18:27:36	 From js-cam : :)
+18:28:31	 From js-cam : If you guys have questions feel free to ask, open mic tonight
+18:29:48	 From js-cam : yay demo
+18:39:49	 From js-cam : sweet
+18:42:02	 From hitesh : Ditto!  Greg/Jon, the presentation is very easy to follow visually from a remote connection.  Everytihngs is very readable.  Thanks.
+18:42:58	 From js-cam : Glad to hear it
+18:55:16	 From hitesh : I'm a newbie and learning about R/Data Visualization.  In reference to your "Exporting data for analysis" slide.  Are there any open source/open data repositories that can be used by students for a lab environment? , any suggestions on open source projects to join for newbies for internet security/ data science projects to join?
+18:55:29	 From Travis Schack : Can you search for a known hash across your fleet?
+18:57:54	 From js-cam : Hitesh, are you looking to get experience in collaborating on Open Source projects?
+18:58:26	 From hitesh : yes sir!
+18:58:31	 From js-cam : Are you at UIUC?
+18:58:49	 From hitesh : nope I'm in Detroit with #misec/ BSides-Detroit.
+18:58:50	 From Travis Schack : thank you
+19:01:25	 From Travis Schack : Any integration with Yara or OpenIOCs?
+19:01:46	 From js-cam : Hitesh, most if not all projects encourage and need help. Github make it easy to contribute code. You just have to find something you’re interested in or need.
+19:02:37	 From hitesh : OK.  Thank you.  I appreciate all the work that you guys are doing with Open NMS.
+19:02:47	 From js-cam : Hitesh, are you on the OpenNSM mailing list? We plan to develop some some of our tools e.g. a honey pot network using linux containers
+19:03:09	 From hitesh : Yes. I joined last week.
+19:03:57	 From js-cam : You’re more than welcome to work with us on our projects
+19:04:24	 From js-cam : What programming languages do you know?
+19:04:59	 From hitesh : Sounds good.  I'm taking the Data Science at John Hopkins/Coursera.  I'm learning R / Python.
+19:05:53	 From js-cam : Sounds good, we will be working with Python for sure using the Docker API
+19:07:29	 From Jon Schipp : We’ll post more info to the list
+19:07:49	 From hitesh : Adios from Detroit!  Thanks again.
+19:08:12	 From Jon Schipp : Thanks for coming

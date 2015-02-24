@@ -1,0 +1,23 @@
+17:27:29	 From Sean Sturley to Jon Schipp(privately) : Hi, jon
+17:41:00	 From Sean Sturley to Jon Schipp(privately) : Jon, you there?
+17:45:51	 From js-cam : We’ll begin in about 15 minutes :)
+18:16:50	 From Clint T. : Yesssss I definitely check out Sysdig!!
+18:18:26	 From js-cam : :)
+18:23:56	 From js-cam : Interface looks slick
+18:26:08	 From js-cam : we do :)
+18:28:07	 From js-cam : If you have questions feel free to ask them in here or unmute yourself
+18:30:56	 From js-cam : makes it real easy :)
+18:40:36	 From js-cam : https://github.com/exp0se/bro-intel-generator
+18:41:28	 From Sean Sturley : Yep
+18:56:53	 From Richard Bejtlich : Good job Dustin
+18:57:26	 From Clint T. : Exicted to try SysDig; having an install issue with the lack of kernel headers though. Great info, thanks for sharing!
+18:58:07	 From Richard Bejtlich : Agreed, great work.
+18:59:18	 From Sean Sturley : I’m trying introduce the idea over here. You may have some more UK based members
+18:59:21	 From hitesh : Ditto.  Nice job.  Dustin/Jon you should join in Detroit and present at the #misec monthly meeting and/or present at Converge/Bsides Detroit in July.  Call for papers is open.  Thanks again!
+18:59:47	 From paulh : Awesome meeting. Thanks!
+19:00:27	 From Sean Sturley : Thanks
+19:00:38	 From Richard Bejtlich : Thanks everyone.
+19:00:42	 From js-cam : http://sickbits.net/opennsm-the-open-network-security-monitoring-group/
+19:01:08	 From Sean Sturley to Jon Schipp(privately) : Jon, does anyone know of a tool that sterilises syslog?
+19:01:56	 From Jon Schipp to Sean Sturley(privately) : I’m not aware of one but as on the OpenNSM mailing list, surely someone there will be able to help
+19:02:01	 From Jon Schipp to Sean Sturley(privately) : ask*
