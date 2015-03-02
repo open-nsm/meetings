@@ -22,6 +22,7 @@ Group Updates:
 Meeting Sections:
   NSM in the News:
   - 'Suricata 2.0.7 released: <http://suricata-ids.org/2015/02/25/suricata-2-0-7-available/>'
+  - 'Package for Suricata 2.0.7: <http://blog.securityonion.net/2015/03/suricata-207.html>'
   - 'Rsyslog 8.8.0 stable released: <http://www.rsyslog.com/changelog-for-8-8-0-v8-stable/>'
   - 'Snort 3.0's new http_inspect preprocessor: <http://blog.snort.org/2015/02/snort-30s-new-httpinspect-preprocessor.html>'
 
@@ -48,9 +49,10 @@ Talks:
 
   Big Talks:
     Malware Reverse Engineering:
-    Website: http://z0inks.com/
+    Website: http://z0inks.com/, https://twitter.com/BrandonTansey
     Talk Details: Brandon will be explaining the basics of reverse engineering malware.
     Presenter: Brandon is a security researcher at Lancope where he works on finding
-      neat ways to use flow data for incident response and detection. He wanted to
+      neat ways to use flow data for incident response and detection. He has given talks
+      on x86 assembly and reverse engineering at conferences like PhreakNIC. He wanted to
       make a joke about studying other people's malware to better write his own, but
       he wasn't sure that it'd be clear that it was (kind of) a joke.
