@@ -1,0 +1,36 @@
+17:52:57	 From Sean Sturley : Two secs
+17:53:29	 From Sean Sturley : Yes, I am
+17:53:45	 From js-cam : Glad you could make it out this time and last
+17:54:02	 From js-cam : Did you figure out what the issues were being in Switzerland(?)
+17:54:19	 From js-cam : I mean, did it ever allow you to connect directly
+17:54:23	 From Sean Sturley : Lol, Scotland
+17:54:25	 From js-cam : or was it not related
+17:54:28	 From js-cam : whoops, my bad haha
+17:54:37	 From js-cam : hard to keep track
+17:54:55	 From Sean Sturley : No. I think it was some else that was causing issues.
+17:55:16	 From js-cam : ah, kk. well again glad to see you’re  able to make it on :)
+17:55:27	 From Sean Sturley : I have upgraded to Yosemite and download the newer zoo.us and it seems to be working fine!
+17:56:59	 From Sean Sturley : I’m trying to get over to the states in the summer. So I might try and drop in, in person
+17:58:49	 From js-cam : that would be awesome! Come do a talk :)
+18:16:28	 From js-cam : http://gtcybersecuritysummit.com/media.html
+18:22:53	 From js-cam : dope graph
+18:26:33	 From js-cam : strings -a :)
+18:27:47	 From js-cam : good point
+18:40:07	 From js-cam : lololol
+18:40:10	 From hitesh : nice funny :-)
+18:52:59	 From js-cam : good talk so far, very clear explanations
+18:53:24	 From teh-eastcoast-bust3r : fully agree
+18:53:35	 From hitesh : ditto.
+18:55:28	 From teh-eastcoast-bust3r : yes plz
+18:56:49	 From js-cam : Brandon’s presentation material: http://z0inks.com/phreaknic18
+19:11:31	 From js-cam : http://www.hopperapp.com/
+19:14:26	 From Bob : This was a great presentation, it was high level enough to not lose me in the weeds but it dug into enough of the technical details that I feel I have enough of an understanding to start diving into things myself and get value out of the results. Will definitely be sharing the recording. 
+19:15:01	 From Brandon : malwr.com
+19:15:09	 From Brandon : threatexpert.com
+19:23:07	 From hitesh : Brandon, nice clear presentation.  Thanks much!  Jon, as always well run meeting.
+19:23:23	 From Brandon : Thanks!
+19:23:39	 From Sean Sturley : Night
+19:23:44	 From Jon Schipp : Take care guys
+19:24:11	 From John : Great Job!
+19:24:27	 From Sean Sturley : You could leave the camera on and I’ll watch it from here
+19:24:50	 From Jon Schipp : https://github.com/acmlug/meetings
