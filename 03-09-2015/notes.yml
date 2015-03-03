@@ -12,7 +12,11 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- 'Twitter: @OpenNSM #OpenNSM'
+- 'Sponsorship: <https://docs.google.com/document/d/10NSL1wWMb-bNp7h6UEYNfzyMvJ0kbxxPTSQj9vAsPyM/edit?usp=sharing>'
+- 'Github Organization: <https://github.com/open-nsm>'
+- 'Applied for Amazon Grant and OSUs OSL grants: <https://aws.amazon.com/grants/>, <https://osuosl.org/>'
+- 'Xen Project system: <xen.open-nsm.net>'
 
 Meeting Sections:
   NSM in the News:
@@ -39,7 +43,14 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Stenographer:
+    Website: https://github.com/google/stenographer, <gconnell@google.com>
+    Talk Details: Stenographer is a daemon which writes packets to disk very quickly,
+      then returns specific written packets to analysts on request.  Graeme will describe
+      how this system works, how to deploy it, how it performs, and why it might be useful.
+    Presenter: Graeme Connell is a software engineer. After a liberal arts college gave him
+      a very rare BA in CS, he's spent the past eight years at Google. There, he has focussed
+      on building security monitoring tools and services, including SIEM and IDS systems.
+      His primary interest is network-based detection and packet wrangling. He's the owner
+      of http://github.com/google/stenographer, a packet-to-disk spooler, as well as
+      http://code.google.com/p/gopacket, a library to process packet data in Go.
