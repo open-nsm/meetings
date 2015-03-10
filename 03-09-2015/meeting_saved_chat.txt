@@ -1,0 +1,25 @@
+18:05:26	 From Host : Can everyone here me?
+18:05:33	 From falshamran : yes
+18:05:36	 From hitesh : y
+18:05:36	 From anuckols : yup
+18:09:49	 From falshamran : yes
+18:11:46	 From Host : Cool :)
+18:19:32	 From Nexus 5 to Jon Schipp(privately) : what were you trying to see?
+18:30:32	 From Jon Schipp : Yes! +1 AF_PACKET FANOUT
+18:32:00	 From Jon Schipp : that's going to be pretty dependent I imagine Nexus 5, frame sizes and hardware
+18:32:32	 From Nexus 5 : that was my next question
+18:32:58	 From Jon Schipp : :) hopefully Graeme can fill us in
+18:36:21	 From Jon Schipp : I'm really excited about this
+18:44:04	 From andy : Do you always want a different disk per thread?
+18:52:39	 From Jon Schipp : this great
+18:52:55	 From hitesh : yes indeed!
+18:53:49	 From hitesh : As memory gets cheaper would you think of using something like Apache Spark to write a distributed to a RAM File System, process information and then send info to disk?  Please ignore if this question does not make sense.
+18:58:53	 From hitesh : Graham, very much for the clear answer.
+18:59:48	 From hitesh : meant to write.    "Graham, *thanks* very much for the clear answer."
+19:06:58	 From anuckols : What Linux version are you currently using for this?
+19:07:16	 From anuckols : haha thanks
+19:11:20	 From gconnell : http://github.com/google/stenographer
+19:12:09	 From hitesh : Graeme (sorry for the earlier misspelling) / Jon / All thanks for all your work and time.  Nice meeting.
+19:13:01	 From gconnell : http://code.google.com/p/gopacket
+19:13:35	 From Nexus 5 : thanks hitesh!
+19:14:41	 From Jon Schipp : Thanks hitesh
