@@ -24,7 +24,7 @@ Meeting Sections:
   - 'Wireshark 1.12.4 is now available: <http://seclists.org/wireshark/2015/Mar/33>'
   - 'No Wireshark? No TCPDump? No Problem!: <https://isc.sans.edu/diary/No+Wireshark%3F+No+TCPDump%3F+No+Problem!/19409>'
   - 'Cuckoo Sandbox 1.2: <http://cuckoosandbox.org/2015-03-04-cuckoo-sandbox-12.html>'
-  - 'Bro SSDP parser: <https://github.com/CrowdStrike/NetworkDetection/tree/master/bro-scripts/ssdp>'
+  - 'BroTop toggle support in v3.0: <https://twitter.com/Mephux/status/574671124396662784/photo/1>'
 
   Conference Corner:
   - 'Marcin Kleczynski of MalwareBytes @EOH UIUC March 13, 7pm: <http://eoh.ec.illinois.edu/>'
@@ -42,7 +42,7 @@ Meeting Sections:
   - TBA
 
   Signature Selection:
-  - TBA
+  - 'Bro SSDP parser: <https://github.com/CrowdStrike/NetworkDetection/tree/master/bro-scripts/ssdp>'
 
 Talks:
   Small Talks:
