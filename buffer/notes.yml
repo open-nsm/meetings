@@ -13,15 +13,17 @@ IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
 - 'Sponsorship: <https://docs.google.com/document/d/10NSL1wWMb-bNp7h6UEYNfzyMvJ0kbxxPTSQj9vAsPyM/edit?usp=sharing>'
-- 'Github Organization: <https://github.com/open-nsm>'
 - 'Xen Project system: <xen.open-nsm.net>'
 - 'Emails: <info@open-nsm.net, sponsor@open-nsm.net, talk@open-nsm.net, admin@open-nsm.net>'
+- 'New Repos: <https://github.com/open-nsm>'
 
 Meeting Sections:
   NSM in the News:
   - 'Snort 2.9.7.2 has been released!: <http://blog.snort.org/2015/03/snort-2972-has-been-released.html>'
   - 'Evading IDS in exploit development: <https://security.stackexchange.com/questions/83843/evading-ids-in-exploit-development>'
   - 'Wireshark 1.99.4 is now available: <https://www.wireshark.org/lists/wireshark-announce/201503/msg00003.html>'
+  - 'Snort 2.9.7.2 now available!: <http://blog.securityonion.net/2015/03/snort-2972-now-available.html>'
+  - 'SecurityOnoin is moving to Github: <https://github.com/Security-Onion-Solutions>'
 
   Conference Corner:
   - 'B-Sides Chicago - May 16th : <http://www.securitybsides.com/w/page/91689093/BSidesChicago%202015>'
