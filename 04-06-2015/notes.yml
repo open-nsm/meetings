@@ -50,7 +50,26 @@ Talks:
     - TBA
 
   Big Talks:
-    ELK Stack:
-    Website:
-    Talk Details:
+    ElasticNSM:
+    Website: http://505forensics.com/
+    Talk Details: This talk will introduce using the ELK stack (Elasticsearch, Logstash, and Kibana)
+      to build an open source NSM tool on the fly. During this talk, we’ll examine how to use the stack
+      to collect our log data, ingest it properly into Elasticsearch, and then use Kibana to build rich,
+      robust dashboards. We’ll also examine ways to enrich our data on the fly, giving us more metadata
+      to pinpoint what’s going on within our network.
     Presenter:
+      Bio: Matt Bromiley, aka @505Forensics, is a digital forensics and incident
+        response consultant. He has also deployed several network monitoring
+        solutions for clients of all sizes, including a multinational organization
+        with more than 175,000 global employees. Matt’s technical experience
+        includes open source software for digital forensics, network security
+        monitoring, and incident response. Most recently, he has devoted time to
+        incorporating NSM concepts using Elasticsearch, hoping to bridge the gap
+        between responding to incidents and detecting incidents.
+      Bio: Brian Marks, aka nrvana, is a digital forensics and incident response
+        consultant. He has experience as a security engineer for a Department of
+        Defense contractor working on intrusion detection, incident response,
+        digital forensics, reverse engineering, log analysis, and firewall
+        administration. Brian performs research and works on side projects for the
+        open source community involving log analysis, visualization, and network
+        forensics.
