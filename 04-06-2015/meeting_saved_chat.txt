@@ -1,0 +1,94 @@
+17:36:33	 From js-cam : Brian, can you hear me?
+18:02:36	 From bust3r : Hi everyone!
+18:03:00	 From Melissa Lucas : Is anyone else having audio quality issues?
+18:03:13	 From bust3r : are you having problems hearing Jon/
+18:03:13	 From Matt Bromiley : Hi All!
+18:03:15	 From Zac : yeah, it is weird
+18:03:22	 From Matt Bromiley : Melissa - it is a bit muffled
+18:04:10	 From Melissa Lucas : Sorry :) Hearing every 3rd or 4th word coherently.
+18:04:49	 From bust3r : One moment while we try to adjust 
+18:05:06	 From Jon Schipp : Can you guys hear me?
+18:05:20	 From Sean : Its a bit muffled.
+18:05:25	 From Zac : there it is
+18:05:27	 From Matt Bromiley : I can hear Jon
+18:05:30	 From Zac : that was much better
+18:10:41	 From hitesh : fyi, the sound for me(remote computer) is a bit muffled.
+18:11:49	 From Zac : yeah it is pretty bad
+18:11:50	 From Melissa Lucas : Yes
+18:11:53	 From js-cam : darn
+18:11:56	 From Sean : Yes
+18:12:06	 From Melissa Lucas : It as that kind of underwater quality to it.
+18:12:13	 From Melissa Lucas : *has
+18:12:52	 From Zac : yeah, very digital, dropping packet sound
+18:13:30	 From Zac : almost like it is background noise, can you push up the volume?
+18:13:53	 From Zac : when you are loud it is better
+18:13:58	 From Sean : Yes
+18:13:58	 From Melissa Lucas : Agreed 100%
+18:14:03	 From Melissa Lucas : Oh yea.
+18:14:21	 From js-cam : anything that was completely?
+18:14:26	 From hitesh : matt is very clear.
+18:14:30	 From Zac : yeah Matt is very clear
+18:14:32	 From jlap : matt loud and clear
+18:14:34	 From Sean : Matt is very clear
+18:14:37	 From Zac : VERY
+18:14:38	 From Zac : hehehe
+18:18:15	 From Matt Bromiley : Can everyone hear Brian?
+18:18:16	 From Zac : yes
+18:18:19	 From Zac : and you sound great
+18:20:13	 From bust3r : sounds good to us
+18:24:11	 From js-cam : great, love the demos
+18:25:48	 From hitesh : ditto
+18:26:41	 From js-cam : looks good
+18:29:06	 From js-cam : is the underscore important?
+18:34:04	 From bust3r to Jon Schipp(privately) : did they see the question about the underscore?
+18:36:07	 From js-cam : that was easy :)
+18:36:12	 From Matt Bromiley : lol
+18:36:59	 From Zac : he sure has a lot more luck than I ever have when I try this ;)
+18:37:07	 From js-cam : lol
+18:41:48	 From js-cam : can everyone in here still hear alright?
+18:43:01	 From hitesh : y
+18:43:07	 From Zac : yep
+18:43:08	 From js-cam : Matt, can you zoom in?
+18:43:15	 From hitesh : thx
+18:43:15	 From Zac : yeah
+18:45:57	 From hitesh : good.
+18:58:21	 From dweb : why wouldn’t you just use sguil? Then you don’t have to pivot to 2-3 apps.
+19:02:15	 From dweb : ah, word. So this is use for just data viz for one cap vs real-time event flow?
+19:02:23	 From dweb : s/use/used/
+19:02:55	 From js-cam : SGuil dies at around 30k uncategorized events
+19:03:15	 From dweb : so would your org. ;)
+19:03:31	 From Zac : Kibana for me is about the speed in which i can pivot through data. I can jump all around very quickly.
+19:03:39	 From js-cam : for historical reference it wouldn’t work here
+19:05:12	 From js-cam : dweb, did you still want to do a quickie on EnvDB?
+19:05:51	 From dweb : if you have time sure - if people have to bounce i can wait for some other time slot.
+19:06:59	 From js-cam : yeah, how about next week?
+19:07:16	 From dweb : yea, that works for me
+19:08:57	 From js-cam : cool
+19:09:14	 From dweb : i came from GE.. i wished for 80 anything.. :( - Logstash has never scaled for me. ever. but i’m a hater.
+19:09:21	 From dweb : ;)
+19:10:08	 From dweb : sup M0nkey
+19:10:30	 From meh’s iPhone : Have you done translations in logstash with threat feed data?
+19:10:57	 From meh’s iPhone : I just implemented a dictionary
+19:11:03	 From meh’s iPhone : Works well
+19:11:36	 From meh’s iPhone : Now we need critical stack output in json or yaml :)
+19:11:53	 From dweb : lol, i’ll kill myself before i support ES
+19:11:58	 From dweb : ;)
+19:12:05	 From dweb : j/k we can do that
+19:12:15	 From js-cam : ^
+19:13:37	 From meh’s iPhone : Hahah
+19:13:57	 From meh’s iPhone : Thx
+19:13:59	 From dweb : js-cam: you need to get the heck guys on here
+19:14:10	 From dweb : heka*
+19:14:17	 From js-cam : ah, not familiar
+19:14:20	 From js-cam : will look into it
+19:14:36	 From dweb : mozilla - event stream processing
+19:14:36	 From meh’s iPhone : Mozdef heavily used heka
+19:14:39	 From dweb : for security data
+19:14:52	 From meh’s iPhone : They'd present for sure Jeff Bryner
+19:15:11	 From Zac : Night guys
+19:15:14	 From jlap : Thanks
+19:15:18	 From hitesh : Brain/Matt great talk.   Please consider submitting a talk to Converge/BSides Detroit.  Jon, thanks as always.
+19:15:18	 From Sean : Night
+19:15:19	 From dweb : peace yall
+19:15:20	 From meh’s iPhone : Thx dudes
+19:15:20	 From Matt Bromiley : Thanks everyone!
