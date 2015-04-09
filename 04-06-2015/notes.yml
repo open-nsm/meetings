@@ -52,7 +52,7 @@ Talks:
 
   Big Talks:
     ElasticNSM:
-    Website: http://505forensics.com/
+    Website: http://www.505forensics.com/
     Talk Details: This talk will introduce using the ELK stack (Elasticsearch, Logstash, and Kibana)
       to build an open source NSM tool on the fly. During this talk, we’ll examine how to use the stack
       to collect our log data, ingest it properly into Elasticsearch, and then use Kibana to build rich,
