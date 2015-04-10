@@ -13,11 +13,13 @@ IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
 - 'Sponsorship: <https://docs.google.com/document/d/10NSL1wWMb-bNp7h6UEYNfzyMvJ0kbxxPTSQj9vAsPyM/edit?usp=sharing>'
+- 'UIUC CTF Debrief and Analysis: <https://cyb3r.space/blog/2015-04-07/ctf-analysis.html>'
+- 'Tier 3 Sponsor: Gerald from Blue Flag Security'
 
 Meeting Sections:
   NSM in the News:
-  - RSA Security Conference Bans "Booth Babes" <http://www.engadget.com/2015/04/01/rsa-bans-booth-babes/>
-  - New BlackArch Linux ISOs released <http://www.blackarch.org/download.html>
+  - 'RSA Security Conference Bans "Booth Babes": <http://www.engadget.com/2015/04/01/rsa-bans-booth-babes/>'
+  - 'New BlackArch Linux ISOs released: <http://www.blackarch.org/download.html>'
 
   Conference Corner:
   - 'HotSoS Symposium and Bootcamp on the Science of Security @UIUC April 20-22: <http://cps-vo.org/group/hotsos>'
@@ -33,12 +35,9 @@ Meeting Sections:
   - TBA
 
   Tool Trade:
-  - nsec3map - A DNS zone enumerator that makes use of DNSSEC NSEC or NSEC3
-records. It allows to discover hosts quickly and with a minimal number
-of DNS queries (usually just one query per resource record). <https://github.com/anonion0/nsec3map>
-  - SPARTA - is a python GUI application which simplifies network
-infrastructure penetration testing by aiding the penetration tester in
-the scanning and enumeration phase. <http://sparta.secforce.com/>
+  - 'nsec3map: <https://github.com/anonion0/nsec3map>'
+  - 'SPARTA: <http://sparta.secforce.com/>'
+  - 'EnvDB 0.1.0: <https://github.com/mephux/envdb>'
 
   Paper Period:
   - TBA
