@@ -23,6 +23,7 @@ Meeting Sections:
   - 'New BlackArch Linux ISOs released: <http://www.blackarch.org/download.html>'
   - 'Hidden backdoor API to root privileges in OS X: <https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/>'
   - 'US, European take down Beebone botnet: <http://arstechnica.com/security/2015/04/us-european-police-take-down-highly-elusive-botnet-known-as-beebone/>'
+  - 'SPEAR - Redirect to SMB: <http://blog.cylance.com/redirect-to-smb>'
 
   Conference Corner:
   - 'HotSoS Symposium and Bootcamp on the Science of Security @UIUC April 20-22: <http://cps-vo.org/group/hotsos>'
@@ -40,13 +41,12 @@ Meeting Sections:
   Tool Trade:
   - 'nsec3map: <https://github.com/anonion0/nsec3map>'
   - 'SPARTA: <http://sparta.secforce.com/>'
-  - 'EnvDB 0.1.0: <https://github.com/mephux/envdb>'
 
   Paper Period:
   - TBA
 
   Signature Selection:
-  - TBA
+  - 'detect-redirect-smb.bro: <https://gist.github.com/jshlbrd/16f93843f512aedc64e6>'
 
 Talks:
   Small Talks:
