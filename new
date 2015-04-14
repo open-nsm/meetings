@@ -5,15 +5,15 @@ link=current
 
 get_monday(){
 if [[ $os == "Darwin" ]]; then
-	date=$(date -v +Mon +"%m-%d-%Y")
+	date=$(date -v +Mon +"%Y-%m-%d")
 elif [[ $os == "Linux" ]]; then
-	date=$(date -d next-monday +"%m-%d-%Y")
+	date=$(date -d next-monday +"%Y-%m-%d")
 else
 	echo "$os not understood"
 fi
 
-if [[ "$date" == "$(date +"%m-%d-%Y")" ]]; then
-	date=$(date -v +7d +"%m-%d-%Y")
+if [[ "$date" == "$(date +"%Y-%m-%d")" ]]; then
+	date=$(date -v +7d +"%Y-%m-%d")
 fi
 }
 
