@@ -1,0 +1,26 @@
+17:26:44	 From bust3r : Hi everyone!! Welcome to OpenNSM
+17:42:07	 From js-chat : We will begin at 6 CT - 20 more min
+17:43:40	 From Jason Rochon : Great
+18:06:03	 From Zac Hinkel : actually it is a gig bigger than Kali
+18:30:35	 From Gary : Any chance of posting your example metrics bro scripts? 
+18:31:43	 From js-chat : Docker containers for this:
+https://github.com/tutumcloud/tutum-docker-influxdb
+https://github.com/tutumcloud/tutum-docker-grafana
+we’re using these
+If you guys have any questions you can ask in here or unmute your mic
+18:31:57	 From js-chat : Sorry, Jason, I didn’t realize I was sending you private messages lol
+18:32:04	 From js-chat : https://github.com/bitly/statsdaemon
+18:32:19	 From js-chat : :)
+18:33:30	 From Gary : Thanks :-)
+18:33:51	 From js-chat : bug this guy justin.azoff@gmail.com :)
+18:35:35	 From Gary : We've been doing null routes with urpf, but yes incomplete
+18:36:00	 From js-chat : https://github.com/JustinAzoff/bhr-bro/
+18:47:11	 From js-chat : very nice
+18:47:49	 From Gary : Really cool. How did you guys talk your various network teams into allowing you to do this? Especially in regards to the batch loading of intel lists and programtic blocking from Bro?
+18:54:09	 From Gary : I'm fortunate to have been on our network team, but it has still been a hard sell despite knowing the infrastructure and having the relationships. We have Thirsty Thursdays for that.
+18:59:37	 From js-chat : https://github.com/JustinAzoff/ninfo
+19:13:24	 From Gary : Have you integrated ninfo with local arp data or ipam systems yet for mac to ip mappings etc?
+19:14:37	 From Gary : nm
+19:15:12	 From js-chat : :)
+19:16:52	 From Gary : Really cool. Thanks for sharing.
+19:17:09	 From Jason Rochon : thanks
