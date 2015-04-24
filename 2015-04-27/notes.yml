@@ -31,7 +31,7 @@ Meeting Sections:
   - 'Vigilant - Senior Hunt Team Analyst: <https://vigilantnow.com/job-postings/Senior_Hunt_Team_Analyst.pdf>'
 
   Tool Trade:
-  - TBA
+  - 'Incident Response Hunting Tools: <https://sroberts.github.io/2015/04/21/hunting-tools/>'
 
   Paper Period:
   - TBA
@@ -45,7 +45,30 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    OSX Collector:
+    Website: https://github.com/Yelp/osxcollector
+    Talk Details: We use Macs a lot at Yelp, which means that we see our fair
+    share of Mac-specific security alerts. Host based detectors will tell us
+    about known malware infestations or weird new startup items. Network based
+    detectors see potential C2 callouts or DNS requests to resolve suspicious
+    domains. Sometimes our awesome employees just let us know, "I think I have
+    like Stuxnet or conficker or something on my laptop.”
+
+    When alerts fire, our incident response team’s first goal is to "stop the
+    bleeding" – to contain and then eradicate the threat. Next, we move to “root
+    cause the alert" – figuring out exactly what happened and how we'll prevent
+    it in the future. One of our primary tools for root causing OS X alerts is
+    OSXCollector.
+
+    OSXCollector is an open source forensic evidence collection and analysis
+    toolkit for OS X. It was developed in-house at Yelp to automate the digital
+    forensics and incident response (DFIR) our crack team of responders had been
+    doing manually.
+
+    Presenter: Ivan Leichtling @c0wl, leads an amazing team of engineers focused on
+    securing Yelp's visitors, mobile apps, websites, employees, and
+    infrastructure. Ivan holds a BS in Computer Science from the Columbia
+    University School of Engineering and Applied Sciences. Prior to Yelp, Ivan
+    spent a dozen years writing software, building hardware, and leading teams
+    at Microsoft. Ivan is an anagram of vain and as such appreciates Twitter
+    followers at @c0wl and @YelpEngineering.
