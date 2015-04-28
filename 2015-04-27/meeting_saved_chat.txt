@@ -1,0 +1,92 @@
+17:26:11	 From Jon Schipp : \
+17:26:21	 From Ivan Leichtling : heya
+17:26:28	 From Jon Schipp : hello
+17:26:58	 From Ivan Leichtling : I am gonna head to a different room
+17:27:01	 From Ivan Leichtling : back in 2 min
+17:27:54	 From Ivan Leichtling : it was during a blissrd
+17:28:02	 From Ivan Leichtling : 7 attendees
+17:28:08	 From Jon Schipp : ah
+17:39:39	 From Jon Schipp : Howdy Shane
+18:02:37	 From Jon Schipp : Recording
+18:02:38	 From Jon Schipp : :)
+18:06:35	 From Jon Schipp : haha
+18:17:01	 From Jon Schipp : lol
+18:19:03	 From Jon Schipp : haha
+18:19:10	 From Zac Hinkel : good ol zoom
+18:19:15	 From Jon Schipp : indeed
+18:23:19	 From shane : finally i can write everything in python!
+18:23:40	 From Jon Schipp : :)
+18:23:49	 From Zac Hinkel : As a crappy programer, I <3 Python :)
+18:24:15	 From shane : me too, Zac, CS program at UIUC made me hate programming. 
+18:26:58	 From Jon Schipp : lol
+18:27:01	 From Zac Hinkel : just straight up lost his voice
+18:27:02	 From Jon Schipp : water
+18:28:44	 From shane : good point
+18:36:36	 From Jon Schipp : wut
+18:36:54	 From shane : how is that possible?
+18:36:59	 From shane : osx malware?
+18:37:01	 From Jon Schipp : lol
+18:37:02	 From Jason C. Rochon (UIC) : pwnd?
+18:37:48	 From Jon Schipp : maybe that’s a feature - I dunno
+18:38:00	 From Jon Schipp : asb is that you?
+18:38:00	 From shane : is it documented?
+18:38:19	 From Jason C. Rochon (UIC) : let me take a color sample,. I'll investigate
+18:38:31	 From Jon Schipp : ah, https://support.zoom.us/hc/en-us/articles/201362153-Screen-Sharing-and-Annotations
+18:38:32	 From Zac Hinkel : haha, i was scared it was me, but it won't let me clear it :)
+18:39:05	 From asb : I don’t think that was me
+18:39:19	 From Jason C. Rochon (UIC) : I cannot even draw
+18:39:37	 From shane : so Ivan did that?
+18:39:41	 From Jason C. Rochon (UIC) : ^_^ this is my best work
+18:39:47	 From Jon Schipp : lol we don’t know
+18:40:27	 From shane : i tried to erase it, no dice
+18:40:29	 From Jon Schipp : Maybe Ivan did that on accident
+18:40:58	 From Jon Schipp : We need a trigger on the mute button :/
+18:41:23	 From shane : i'm not sure what you mean
+18:41:42	 From Jon Schipp : err, quick trigger - I’m not fast enough when new people join
+18:41:49	 From Jon Schipp : they’re usually unmuted
+18:41:57	 From Jason C. Rochon (UIC) : I joined muted
+18:41:59	 From shane : gotcha
+18:42:15	 From Jason C. Rochon (UIC) : it took me a second to unmute and respond
+18:42:16	 From shane to Jon Schipp(privately) : i wonder if there's a settting to default all joiners to mute them
+18:42:29	 From Jon Schipp : yeah, that would be nice - will have to look into it
+18:45:29	 From Jason C. Rochon (UIC) : What's up with tta blue cross on the screen?
+18:45:52	 From shane : we think Ivan accidentally annotated.
+18:46:04	 From Jason C. Rochon (UIC) : oh, I thought it was a mindmap
+18:46:34	 From Zac Hinkel : the correct answer shane would have been, "What blue cross?"  :)
+18:46:42	 From shane : my bad dog
+18:46:55	 From Jason C. Rochon (UIC) : Blue X
+18:47:15	 From Jason C. Rochon (UIC) : Sorry, I work in the medical district
+18:47:18	 From Zac Hinkel : haha, i was just saying we should have all pretended not to see it 
+18:47:26	 From Jason C. Rochon (UIC) : LOL
+18:47:37	 From shane : pretend not to see what?
+18:48:23	 From Jason C. Rochon (UIC) : Reboot fixes everything
+18:48:59	 From Zac Hinkel : You don't want it to write a presistant startup, so make sure just to hold the power button for 10 seconds :)
+18:49:25	 From Jason C. Rochon (UIC) : or just pull the power cord from the wall
+18:49:37	 From shane : just delete System32 or if you're on sudo osx rm -rf
+18:50:00	 From Jason C. Rochon (UIC) : or delete Nintendo64
+18:50:03	 From Zac Hinkel : man, Ivan here owns a lot of patents 
+18:51:06	 From Zac Hinkel : ironicaly, Methods of annotating a collaborative application displayUnited States 7356563
+18:51:37	 From Jon Schipp : lol
+18:53:04	 From shane : firstrowsports.eu
+18:53:12	 From Jason C. Rochon (UIC) : brazzers.com
+18:53:15	 From Zac Hinkel : haha
+18:54:02	 From Jason C. Rochon (UIC) : Why did Ivan cross out virustotal? Its no good?
+18:58:10	 From Jason C. Rochon (UIC) : Hey, what's up with the Blue X?
+18:59:28	 From Ivan Leichtling : No idea what the blue X is
+18:59:30	 From Zac Hinkel : Great talk, really enjoyed
+18:59:51	 From Jason C. Rochon (UIC) : ah, its for OS X
+19:00:12	 From shane : so it's a roman numeral?
+19:00:16	 From shane : Does it stand for 10?
+19:00:26	 From Jason C. Rochon (UIC) : no X for Xtraordinary
+19:00:45	 From shane : i thought he was commenting about the brazzers comment.
+19:01:04	 From Jason C. Rochon (UIC) : brazzers is a security portal
+19:01:08	 From Jason C. Rochon (UIC) : try it
+19:01:58	 From shane to Jon Schipp(privately) : he calls it osXcollector, dude
+19:03:59	 From Jason C. Rochon (UIC) : I like it
+19:04:05	 From shane to Jon Schipp(privately) : What blue x?
+19:04:16	 From shane : What blue X?
+19:04:19	 From Jason C. Rochon (UIC) : yes
+19:04:33	 From Zac Hinkel : that is my box
+19:05:10	 From Jason C. Rochon (UIC) : sweet
+19:05:13	 From Zac Hinkel : Great talk
+19:06:47	 From shane : I am very handsome.
