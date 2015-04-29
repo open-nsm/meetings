@@ -39,7 +39,17 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Network Scout:
+    Website: https://github.com/NetworkScout/ns
+    Talk Details: Network Scout is an intrusion detection system and honeypot.
+      It was built on TrustedSec's Artillery. It allows for a distributed system
+      of scouts. The system is similar to the tsunami warning system on the coast.
+      The scout is like a buoy in the ocean, and the scout server is the central
+      warning system. If the scout detects an abnormality, it sends a warning to
+      the server. We will be discussing how we built it, how we coded it, and more.
+    Presenter: Shawn Jordan, @ph_shawn, is currently a Digital Forensics and Information
+      Assurance major at Marshall University. He will be graduating this May. He
+      is co-creator of Network Scout - a distributed honeypot/IDS. He has spoken
+      at DerbyCon 4.0, Hack3rCon 5, and AIDE 2015. He has also presented at
+      Research Day at the Capitol in West Virginia. He is currently a volunteer at
+      a local middle school where he teaches teenagers how to code in Python.
