@@ -45,7 +45,20 @@ Talks:
 
   Big Talks:
     Patching Malware:
-    Website: http://www.malwarebytes.org/
-    Talk Details: Adam will demonstrate patching malware with OllyDbg and IDA Pro,
-      Patching is a valuable skill and pretty neat to watch.
-    Presenter: Adam Kujawa - Head of Malware Intelligence at MalwareBytes
+    Website: http://www.malwarebytes.org/, https://twitter.com/kujman5000
+    Talk Details: While performing in-depth malware code analysis, often times it helps to step
+      through the code as you document its purpose and flow.  Sometimes you get lucky and just follow
+      along as the malware runs its natural course and other times the settings of your environment or
+      anti-analysis functionality might lead you to an early termination.  Therefore, one of the less
+      mentioned aspects of malware code analysis is the ability to change the code or "patch" in real
+      time, allowing for the analyst to force the malware into revealing its secrets. This talk will
+      cover a quick overview of the importance of patching, how it is done and a look at the dangers
+      associated. Finally there will be a few real world examples of malware patching.
+    Presenter: Adam Kujawa is the Head of Malware Intelligence @ Malwarebytes, with 10 years of
+      experience fighting malware behind the scenes and on the front lines. He has spent time
+      analyzing threats of an APT / State Sponsored nature as well as threats to consumers for both
+      government and private industry.  In addition to research and analysis, he has provided
+      conference talks and developed technical courses on topics from basic to advanced malware
+      analysis, malware evolution and threat intelligence. He has had articles published in SC
+      Magazine, TechCrunch and other notable tech publications as well as being frequently quoted on
+      matters of computer security by news organizations.
