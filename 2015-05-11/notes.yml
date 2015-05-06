@@ -20,6 +20,8 @@ Group Updates:
 Meeting Sections:
   Networking News:
   - 'Introducing FIDO: Automated Security Incident Response: <http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html>'
+  - 'Suricata 2.0.8: <http://suricata-ids.org/2015/05/06/suricata-2-0-8-available/>'
+  - 'Deep dive into QUANTUM INSERT: <http://blog.fox-it.com/2015/04/20/deep-dive-into-quantum-insert/>'
 
   Conference Corner:
   - 'Thotcon Chicago - May 14-15: <http://thotcon.org/>'
@@ -33,10 +35,11 @@ Meeting Sections:
   - 'Sniffy2.0: <https://github.com/busterbytes/sniffy2.0>'
 
   Paper Period:
-  - TBA
+  - 'Systems Performance: Enterprise and the Cloud: <http://www.brendangregg.com/sysperfbook.html>'
+  - 'ISLET: An Isolated, Scalable, & Lightweight Environment for Training: <http://jonschipp.com/islet/islet-paper.pdf>'
 
   Signature Selection:
-  - TBA
+  - 'Quantum Insert Detection: <https://github.com/fox-it/quantuminsert>'
 
 Talks:
   Small Talks:
