@@ -12,16 +12,23 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
+- Final meeting for semester
 - 'Tier 1 Sponsor - Doug Burks - SecurityOnion Solutions: <http://gofundme.com/opennsm>'
 - 'Tier 2 Sponsor - Chris Sanders - Rural Technology Fund: <http://gofundme.com/opennsm>'
-- 'Tier 3 Sponsor - Ryan of Vigilant <http://vigilantnow.com/>'
+- 'Tier 3 Sponsor - Ryan Stillions - Vigilant Technology Solutions: <http://vigilantnow.com/>'
 - 'GoFundMe Campaign: <https://gofundme.com/opennsm>'
+- Summer Plans:
+  - NSM Laboratory
+  - Business Cards
+  - T-Shirts
+  - NSM Curriculum and Video Course
 
 Meeting Sections:
   Networking News:
-  - 'Introducing FIDO: Automated Security Incident Response: <http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html>'
   - 'Suricata 2.0.8: <http://suricata-ids.org/2015/05/06/suricata-2-0-8-available/>'
+  - 'Argus-3.0.8: <http://qosient.com/argus/news.shtml>'
   - 'Deep dive into QUANTUM INSERT: <http://blog.fox-it.com/2015/04/20/deep-dive-into-quantum-insert/>'
+  - 'Detecting Forged Kerberos Ticket Use in Active Directory: <http://adsecurity.org/?p=1515>'
 
   Conference Corner:
   - 'Thotcon Chicago - May 14-15: <http://thotcon.org/>'
@@ -32,6 +39,7 @@ Meeting Sections:
   - 'Vigilant - Senior Hunt Team Analyst: <https://vigilantnow.com/job-postings/Senior_Hunt_Team_Analyst.pdf>'
 
   Tool Trade:
+  - 'Introducing FIDO: Automated Security Incident Response: <http://techblog.netflix.com/2015/05/introducing-fido-automated-security.html>'
   - 'Sniffy2.0: <https://github.com/busterbytes/sniffy2.0>'
 
   Paper Period:
