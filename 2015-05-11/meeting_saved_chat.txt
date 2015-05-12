@@ -1,0 +1,65 @@
+17:30:51	 From js-chat : Can you hear me
+17:31:01	 From js-chat : one sec
+17:32:04	 From js-chat : you can’t hear the music?
+17:32:10	 From js-chat : we can hear you
+18:01:49	 From landonix : thumbs up
+18:01:54	 From Shane : yasss
+18:01:55	 From hitesh : y
+18:10:04	 From Jason C. Rochon : Visit UIC if you are near Chicago
+18:10:29	 From Shane : we'll be in town Thursday and Friday for Thot
+18:27:23	 From hitesh : y
+18:28:46	 From Jason C. Rochon : n
+18:28:48	 From Cody : Yes
+18:42:04	 From Cody : Good so far
+18:42:09	 From hitesh : ditto
+18:42:17	 From Jason C. Rochon : Nacho
+18:52:31	 From Cody : Yup
+18:52:38	 From Jason C. Rochon : Nacho
+18:54:08	 From Cody : Yup
+18:54:11	 From hitesh : y
+18:54:17	 From Cody : I got muted :/
+18:54:39	 From hitesh : yes, nice presentation w/ ppt
+18:54:45	 From Jason C. Rochon : I'm mutilated
+18:55:43	 From Shane : too many nachos, Jasonthey'll mutilate you every time
+18:55:52	 From Jason C. Rochon : :D
+19:08:08	 From Cody : If I learn nothing else, this was worth it for BITEME
+19:08:29	 From Jason C. Rochon : That's what the Nacho said
+19:14:04	 From Cody : :)
+19:14:09	 From Cody : Good so far
+19:14:35	 From hitesh : :-)
+19:15:12	 From js-chat : Don’t feed the malware
+19:17:53	 From Shane : but what do we do with all these nachos?
+19:18:14	 From Jason C. Rochon : Feed the Nachos some Malware
+19:18:24	 From Cody : Or the malware some Nachos
+19:18:27	 From js-chat : I really want nachos now, no joke
+19:18:34	 From Cody : same
+19:18:57	 From Jason C. Rochon : while (<>){ my nachos = $_}
+19:19:04	 From Jason C. Rochon : writing malware 
+19:19:18	 From Shane : dinnner time
+19:19:25	 From Cody : I blame Jason
+19:19:40	 From Jason C. Rochon : I need a GoFundMe for Nachos
+19:20:27	 From Cody : Yup
+19:20:50	 From Cody : Story of my life
+19:23:58	 From Shane : Tyler wants his money back
+19:24:43	 From Jason C. Rochon : I want a refund too. I downloaded mine from MegaUpload
+19:32:24	 From Cody : How often in practice do you mess a patch up and then the malware ends up running causing you to snap back to the last snapshot?
+19:36:16	 From Jason C. Rochon : We have the Enterprise Edition, he's telling the truth
+19:37:15	 From Cody : Oh yea I learned the hard way long ago :)
+19:38:10	 From Cody : agreed, thanks
+19:40:01	 From Jason C. Rochon : I read an article where a hacked company was stealing the definitions database from MalwareBytes
+19:40:13	 From Cody : YAC
+19:40:34	 From Jason C. Rochon : thanks Cody
+19:41:56	 From Cody : I posted that one on kernelmode :)
+19:42:06	 From Cody : not the images of course but yea that was horrible
+19:42:35	 From Cody : Win32.DirCrypt IIRC
+19:52:37	 From Zac : Wait, was he saying I should or should not go to sketchy porn sites?
+19:53:16	 From Jason C. Rochon : Should
+19:53:24	 From Jason C. Rochon : Brazzers is your friend
+19:53:38	 From Zac : psh, i don't think that falls under sketchy . . . ;)
+19:54:19	 From Jason C. Rochon : Whenever I get an elderly user needing to change their password, I send them there - before we get down to business.
+19:54:54	 From Zac : oh so many puns to make there . . . .
+19:55:42	 From Jason C. Rochon : A co-worker took 45 mins to help a retired professor change their password
+19:59:35	 From Shane : So, you're saying we're Super Heroes?
+20:00:05	 From Jason C. Rochon : I'm in the mood for a Super Gyro
+20:00:50	 From Zac : Fantastic talk, thanks Adam!
+20:01:32	 From Shane : Thanks so much!
