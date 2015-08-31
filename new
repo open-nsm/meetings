@@ -5,9 +5,9 @@ link=current
 
 get_monday(){
 if [[ $os == "Darwin" ]]; then
-	date=$(date -v +Mon +"%Y-%m-%d")
+	date=$(date -v +Tues +"%Y-%m-%d")
 elif [[ $os == "Linux" ]]; then
-	date=$(date -d next-monday +"%Y-%m-%d")
+	date=$(date -d next-tuesday +"%Y-%m-%d")
 else
 	echo "$os not understood"
 fi
@@ -22,8 +22,7 @@ cat <<EOF > $date/$file
 ---
 
 Website: http://open-nsm.net
-Meeting Info: 6CT/7ET/4PT PM in 301 CSL on $date
-Building Access: Doors close at 6 PM CT, arrive earlier
+Meeting Info: 6CT/7ET/4PT PM in 0216 Siebel Center on $date
 Remote: '+1 (415) 762-9988 - Meeting ID: 419 334 147 <https://zoom.us/j/419334147>'
 Mailing List: https://lists.illinois.edu/lists/subscribe/open-nsm
 Facebook: https://www.facebook.com/groups/opennsmnow/
