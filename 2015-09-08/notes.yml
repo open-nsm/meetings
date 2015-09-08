@@ -18,13 +18,13 @@ Meeting Sections:
   - TBA
 
   Conference Corner:
-  - TBA
+  - BroCon'15 Videos: <https://www.youtube.com/playlist?list=PL2EYTX8UVCMhwxWH1IklKkV64YX_0Xcoo>
 
   Opportunity Outpost:
-  - TBA
+  - UIUC Security Analyst, Contact <waylandm@illinois.edu>
 
   Tool Trade:
-  - TBA
+  - ssllabs-scan: <https://github.com/ssllabs/ssllabs-scan/>
 
   Paper Period:
   - TBA
@@ -38,7 +38,9 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    ContainNSM:
+    Website: http://github.com/open-nsm/dockerfiles
+    Talk Details: We will dive right into our container project called Contain NSM,
+      where you will gain hands on experience with Docker and building open source software as
+      well as a walkthrough for contributing to the project.
+    Presenter: 
