@@ -16,6 +16,7 @@ Group Updates:
 Meeting Sections:
   Networking News:
   - BroCon'15 Videos: <https://www.youtube.com/playlist?list=PL2EYTX8UVCMhwxWH1IklKkV64YX_0Xcoo>
+  - Bro 2.4.1 Release: <http://blog.bro.org/2015/09/bro-241-release.html>
 
   Conference Corner:
   - ArchCon, Sept 8-11th: <http://www.archc0n.org/>
@@ -25,6 +26,7 @@ Meeting Sections:
 
   Tool Trade:
   - ssllabs-scan: <https://github.com/ssllabs/ssllabs-scan/>
+  - sshmuxd: <https://github.com/joushou/sshmuxd>
 
   Paper Period:
   - TBA
