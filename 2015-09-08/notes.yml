@@ -15,10 +15,10 @@ Group Updates:
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - BroCon'15 Videos: <https://www.youtube.com/playlist?list=PL2EYTX8UVCMhwxWH1IklKkV64YX_0Xcoo>
 
   Conference Corner:
-  - BroCon'15 Videos: <https://www.youtube.com/playlist?list=PL2EYTX8UVCMhwxWH1IklKkV64YX_0Xcoo>
+  - ArchCon, Sept 8-11th: <http://www.archc0n.org/>
 
   Opportunity Outpost:
   - UIUC Security Analyst, Contact <waylandm@illinois.edu>
@@ -43,4 +43,9 @@ Talks:
     Talk Details: We will dive right into our container project called Contain NSM,
       where you will gain hands on experience with Docker and building open source software as
       well as a walkthrough for contributing to the project.
-    Presenter: 
+    Presenter: Jon is a Security Engineer for the National Center for Supercomputing Applications,
+      Director of Security at Draconyx, as well as the chair for OpenNSM at the University of Illinois 
+      at Urbana-Champaign. He is the author of ISLET and other tools as well as a contributor to many 
+      Free and Open Source Projects including The Netsniff-NG Toolkit, SecurityOnion, and the Bro Project.
+      With a few publications and many talks he has been fortunate enough to have audiences at various conferences
+      including DerbyCon, AIDE, Hack3rCon, BroCon, XSEDE, MOSSCon, and more.
