@@ -9,20 +9,26 @@ Github: https://github.com/open-nsm
 Youtube: https://www.youtube.com/user/OpenNSM
 Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
+Slack: slack.open-nsm.net
+
 
 Group Updates:
 - TBA
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - http://www.healthcarepayernews.com/news/excellus-bluecross-blueshield-cyberattack-impacts-105m-people#.VfX50_lVhBc
 
   Conference Corner:
-  - TBA
+  - 2015 SRI Security Congress - IoT - Internet of Threats Call for submissions due Sept 30
+    http://scissec.scis.ecu.edu.au/paper-submission.php
+  - CSAW CTF 2015 Prelims September 18-20  https://csaw.engineering.nyu.edu/ctf
+    UIUC Students interested: https://www.facebook.com/events/1501586506800860/ 
 
   Opportunity Outpost:
-  - TBA
-
+  - SANS CyberTalent Fair November 19, 2015 10:00 AM to 6:00 PM Eastern Standard Time (EST) 
+    https://app.brazenconnect.com/events/SANS-cybertalent-fair-2
+    
   Tool Trade:
   - TBA
 
@@ -32,6 +38,10 @@ Meeting Sections:
   Signature Selection:
   - TBA
 
+Projects:
+  - Malware analysis using Docker containers. This week we will work on creating a tool that utilyzes Docker containers to
+  perform analysis of malware by spinning up docker containers running various malware analysis software. 
+  
 Talks:
   Small Talks:
     TBA:
