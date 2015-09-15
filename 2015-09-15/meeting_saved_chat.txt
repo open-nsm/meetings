@@ -1,0 +1,46 @@
+18:02:14	 From Sean Sturley to Jon Schipp(privately) : Could you please sit closer to you camera please?
+18:05:18	 From Landon Lewis : yup
+18:05:23	 From Jon Schipp : :)
+18:06:15	 From Jason C. Rochon : I cannot create an account: https://opennsm.slack.com/
+18:06:23	 From Jason C. Rochon : If you have an @illinois.edu email address, you can create an account.
+18:07:26	 From Jon Schipp : Jason, send me your e-mail address
+18:07:42	 From Jon Schipp : for those that do not have uni facilitation we can create it manually
+18:09:57	 From Jon Schipp : you can send it to admin@open-nsm.net
+18:10:37	 From Landon Lewis : Those guys are hiring BTW
+18:11:47	 From Landon Lewis : (Anthem/Bluecross Blueshield in Indianapolis)
+18:12:52	 From Jon Schipp : Thanks Landon, maybe we can got that in the notes for next week. If you have any links send them our way
+18:15:34	 From Landon Lewis : Relevant to this group: http://careers.antheminc.com/job/5524731/intrusion-hunting-information-security-advisor-job-family-105948-indianapolis-in/
+18:17:18	 From Landon Lewis : I heard about this cuckoo fork yesterday: https://github.com/brad-accuvant/cuckoo-modified
+18:17:37	 From zoomequipd : that fork is supposed to be the bee's knees
+18:17:44	 From Landon Lewis : that’s what I heard!
+18:17:56	 From zoomequipd : everyone i know that is running cuckoo is using it
+18:18:02	 From Landon Lewis : very nice
+18:18:15	 From Landon Lewis : anyone doing automated file extract from bro or suri and feeding it?
+18:19:18	 From Jon Schipp to shane(privately) : Nice - didn’t know about that fork -thanks for posting
+18:19:27	 From zoomequipd : thinking about it, but haven't done anything with it.  in the space that I'm in there is a lot of preference for commerical products. :-/
+18:19:41	 From Jon Schipp : Nice - didn’t know about that fork -thanks for posting
+18:20:19	 From Jon Schipp : Bro file extraction to Cuckoo has been one of tasks at work but unfortunately has been moved to the backburner
+18:20:30	 From Landon Lewis : I know wmetcalf had some code on his github link for sure, probably a good place to start if using suri
+18:28:36	 From Landon Lewis : =)
+18:30:09	 From Landon Lewis : Shane should mute his mic while you talk, Jon. =)
+18:30:32	 From Landon Lewis : sounds like they’re playing the drums heh
+18:31:14	 From Landon Lewis : thumbs up for sure
+18:39:42	 From Jon Schipp : can everyone hear him?
+18:39:51	 From Landon Lewis : yes
+18:39:53	 From Jason C. Rochon : yes
+18:45:26	 From Jason C. Rochon : I have one
+18:45:28	 From Landon Lewis : no questions here
+18:45:35	 From Jason C. Rochon : What is the best way to obtain an exe
+18:45:55	 From Landon Lewis : I can hear you...
+18:49:03	 From Landon Lewis : or spin up an SO box for playing around
+18:49:17	 From Jon Schipp : http://www.malware-traffic-analysis.net/
+18:49:25	 From Jason C. Rochon : Thanks
+18:49:59	 From Jon Schipp : http://www.threatglass.com
+18:50:24	 From Landon Lewis : Ya know...
+18:50:42	 From Landon Lewis : the code used for threat glass would be great for this container project
+18:50:56	 From Landon Lewis : not sure if any of it was GPL'd
+18:51:23	 From Jon Schipp : https://github.com/open-nsm/dockoo
+18:55:12	 From Landon Lewis : i’d love to help as my time is available
+18:55:43	 From Jon Schipp : for those wanting to contribute - send us your Github account name: admin@open-nsm.net
+18:55:51	 From Jon Schipp : Thanks for coming
+18:55:55	 From Jason C. Rochon : no, I'm UIC
