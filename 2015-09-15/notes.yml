@@ -11,6 +11,9 @@ Vimeo: https://vimeo.com/opennsm
 IRC: ##opennsm on irc.freenode.net
 Slack: slack.open-nsm.net
 
+Group Updates:
+- Amazon AWS Grant: Credit available 9/24
+- ContainNSM: Daemonlogger images <https://hub.docker.com/r/opennsm/daemonlogger/>
 
 Meeting Sections:
   Networking News:
@@ -25,7 +28,6 @@ Meeting Sections:
   Opportunity Outpost:
   - SANS CyberTalent Fair November 19, 2015 10:00 AM to 6:00 PM Eastern Standard Time (EST) 
     https://app.brazenconnect.com/events/SANS-cybertalent-fair-2
-    
 
 Projects:
   - Malware analysis using Docker containers. This week we will work on creating a tool that utilyzes Docker containers to
