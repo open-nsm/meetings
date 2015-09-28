@@ -20,7 +20,7 @@ Meeting Sections:
   - 'Suricata 2.0.9: <http://suricata-ids.org/2015/09/25/suricata-2-0-9-available/>'
 
   Conference Corner:
-  - TBA
+  - 'Ohio Linux Fest: <http://www.ohiolinux.org/>'
 
   Opportunity Outpost:
   - TBA
@@ -40,7 +40,13 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    AFL-Fuzz and Bro:
+    Website: https://github.com/JustinAzoff
+    Talk Details: AFL Fuzz and Bro, fuzzing Bro for security bugs
+    Presenter: Justin Azoff is a Security Engineer at the NCSA and developer for the Bro Project.
+      He is responsible for implementing security plans; assisting other NCSA groups in hardening
+      and protecting their systems;and developing, administrating and utilizing NCSA's state-of-the-art
+      cybersecurity monitoring infrastructure in support of the Center's objective of providing a highly
+      reliable and functional computing environment. Justin has authored a number of integration tools
+      for a variety of projects including PassiveDNS, DumbNo, Black Hole Router Site, etc. for Bro and
+      many others including HTTP Flood, NetFlow Indexer, Ninfo, etc..
