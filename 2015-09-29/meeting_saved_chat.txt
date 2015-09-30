@@ -1,0 +1,33 @@
+17:38:22	 From Jon Schipp : can you hear me?
+17:38:42	 From Sean Sturley : I'm using my phone
+17:39:07	 From Jon Schipp : kk
+17:39:34	 From Sean Sturley : I can hear but it won't let me select my microphone
+17:43:01	 From Jon Schipp : no worries
+17:56:16	 From Jon Schipp : Jason, can you hear me?
+17:56:37	 From Jon Schipp : Can anyone hear me?
+17:56:53	 From Landon Lewis : thumbs up
+17:56:55	 From Jason C. Rochon : no
+17:57:05	 From Jason C. Rochon : I was goign to ask you if you were speaking, sir
+17:57:28	 From Jason C. Rochon : ok, now i hear
+17:57:35	 From Jason C. Rochon : thanks Jon
+17:58:16	 From Germán Escobar Villada : Good evening every one
+17:58:18	 From Jason C. Rochon : Anyone working on Security Onion on CentOS/RedHat?
+17:58:55	 From Landon Lewis : @jason - toosmooth/mike reeves was working on a CentOS/RHEL sensor setup that worked with SO, not sure if he has started yet though
+17:59:07	 From Jason C. Rochon : thanks, Landon
+17:59:36	 From Landon Lewis : I hear Jason and Sean
+18:01:04	 From Landon Lewis : I’m going back on mute. /me is babysitting (literally)
+18:01:22	 From Jason C. Rochon : :D
+18:02:04	 From Jason C. Rochon : slow reflexes on my part
+18:02:16	 From Jason C. Rochon : takes me a couple mins to unmute
+18:02:36	 From Landon Lewis : feeeeedback
+18:02:39	 From Jason C. Rochon : nice
+18:02:47	 From Jason C. Rochon : yes
+18:02:55	 From Jason C. Rochon : test
+18:03:10	 From Jason C. Rochon : reminds me of the shining
+18:03:14	 From Landon Lewis : lol
+18:03:42	 From Landon Lewis : i’m waiting for music to play or something during the intro
+18:03:46	 From Landon Lewis : NSMRADIO
+18:03:51	 From Landon Lewis : etc
+18:10:40	 From Jon Schipp : Landon, I’ve thought about putting in a mixer with some audio clips :)
+18:13:03	 From Landon Lewis : haha awesome
+19:01:09	 From Jason C. Rochon : thanks
