@@ -12,11 +12,11 @@ Slack: slack.open-nsm.net
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- AWS Grant: still waiting
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - 'Single RX queue kernel bypass in Netmap for high packet rate networking: <https://blog.cloudflare.com/single-rx-queue-kernel-bypass-with-netmap/>'
 
   Conference Corner:
   - TBA
@@ -25,7 +25,7 @@ Meeting Sections:
   - TBA
 
   Tool Trade:
-  - TBA
+  - 'Bro Intel Linter: <https://github.com/packetsled/bro_intel_linter>'
 
   Paper Period:
   - TBA
@@ -39,7 +39,7 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
+    Project Meeting:
+    Website: http://open-nsm.net
     Talk Details:
     Presenter:
