@@ -17,15 +17,16 @@ Group Updates:
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - 'Suricata 3.0RC2 released: <http://suricata-ids.org/2015/12/08/suricata-3-0rc2-available/>' 
 
   Conference Corner:
+  - TBA
 
   Opportunity Outpost:
-  - TBA
+  - 'NCSA Junior Analyst (UIUC student): <jschipp@illinois.edu>'
 
   Tool Trade:
-  - TBA
+  - 'py-idstools: <https://github.com/jasonish/py-idstools>'
 
   Paper Period:
   - TBA
@@ -40,6 +41,8 @@ Talks:
 
   Big Talks:
     Sniffy DB:
-    Website:
-    Talk Details:
-    Presenter:
+    Website: 
+    Talk Details: The goal of the SniffyDB project is to allow network administrators 
+      to input a PCAP files and our application will automatically generate a data table,
+      visualize the network traffic, and analyze network status.
+    Presenter: Shane Rogers (@bust3r), Simon Kim
