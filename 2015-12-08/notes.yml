@@ -33,6 +33,7 @@ Meeting Sections:
   Tool Trade:
   - 'py-idstools: <https://github.com/jasonish/py-idstools>'
   - 'OSSEC Munin Plugins: <https://github.com/jonschipp/munin-plugins>'
+  - 'nsm-tools: <https://github.com/jonschipp/nsm-tools>'
 
   Paper Period:
   - 'Bluffing Network Scan Tools: <https://dl.packetstormsecurity.net/papers/general/BluffNetworkScanTools.pdf>'
