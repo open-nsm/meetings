@@ -18,6 +18,8 @@ Group Updates:
 Meeting Sections:
   Networking News:
   - 'Suricata 3.0RC2 released: <http://suricata-ids.org/2015/12/08/suricata-3-0rc2-available/>' 
+  - 'Snort 2.9.8.0 released: <https://www.snort.org/downloads/snort/snort-2.9.8.0.tar.gz>'
+  - 'Netsniff-NG 0.6.0 released: <http://netsniff-ng.org/>'
 
   Conference Corner:
   - TBA
@@ -27,6 +29,7 @@ Meeting Sections:
 
   Tool Trade:
   - 'py-idstools: <https://github.com/jasonish/py-idstools>'
+  - 'OSSEC Munin Plugins: <https://github.com/jonschipp/munin-plugins>'
 
   Paper Period:
   - TBA
