@@ -12,11 +12,13 @@ Slack: slack.open-nsm.net
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- Project meetings
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - 'EtherApe 0.9.14 released: <http://sourceforge.net/p/etherape/etherape/ci/default/tree/NEWS>'
+  - 'Suricata 3.0 Available: <http://suricata-ids.org/2016/01/27/suricata-3-0-available/>'
+  - '2015 SANS Holiday Hack Challenge: <https://www.holidayhackchallenge.com/>'
 
   Conference Corner:
   - TBA
@@ -25,7 +27,7 @@ Meeting Sections:
   - TBA
 
   Tool Trade:
-  - TBA
+  - 'cve-search: <https://github.com/cve-search/cve-search>'
 
   Paper Period:
   - TBA
@@ -35,11 +37,11 @@ Meeting Sections:
 
 Talks:
   Small Talks:
-    TBA:
+    Title:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Title: What is NSM?
+    Website: http://open-nsm.net
+    Talk Details: An introduction to network security monitoring
+    Presenter: Jon Schipp
