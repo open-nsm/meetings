@@ -12,14 +12,14 @@ Slack: slack.open-nsm.net
 IRC: ##opennsm on irc.freenode.net
 
 Group Updates:
-- TBA
+- State of Affairs
 
 Meeting Sections:
   Networking News:
-  - TBA
+  - 'Wireshark 2.0.2: <https://www.wireshark.org/download.html>'
 
   Conference Corner:
-  - TBA
+  - 'Suricata Training: <http://suricata-ids.org/training/>'
 
   Opportunity Outpost:
   - TBA
@@ -39,7 +39,11 @@ Talks:
     - TBA
 
   Big Talks:
-    TBA:
-    Website:
-    Talk Details:
-    Presenter:
+    Talk Details: Justin will be talking about his tool Flow Indexer.
+    Presenter: Justin Azoff is a Security Engineer at the NCSA and developer for the Bro Project.
+      He is responsible for implementing security plans; assisting other NCSA groups in hardening
+      and protecting their systems;and developing, administrating and utilizing NCSA's state-of-the-art
+      cybersecurity monitoring infrastructure in support of the Center's objective of providing a highly
+      reliable and functional computing environment. Justin has authored a number of integration tools
+      for a variety of projects including PassiveDNS, DumbNo, Black Hole Router Site, etc. for Bro and
+      many others including HTTP Flood, NetFlow Indexer, Ninfo, etc..
